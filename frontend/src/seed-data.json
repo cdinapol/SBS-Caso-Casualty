@@ -1,0 +1,3408 @@
+{
+  "suscriptores": [
+    {
+      "id": 1,
+      "nombre": "Mariana Pérez Londoño",
+      "email": "mariana.perez@sbsseguros.co"
+    },
+    {
+      "id": 2,
+      "nombre": "Carlos Andrés Gómez",
+      "email": "carlos.gomez@sbsseguros.co"
+    },
+    {
+      "id": 3,
+      "nombre": "Laura Fernanda Ruiz",
+      "email": "laura.ruiz@sbsseguros.co"
+    },
+    {
+      "id": 4,
+      "nombre": "Esteban Castaño Valencia",
+      "email": "esteban.castano@sbsseguros.co"
+    }
+  ],
+  "folios": [
+    {
+      "id": 1,
+      "folio_number": "FOL-2026-00001",
+      "suscriptor_id": 1,
+      "suscriptor_nombre": "Mariana Pérez Londoño",
+      "cliente": "Química Industrial del Norte S.A.S.",
+      "nit": "900456789-3",
+      "intermediario": "Marsh Colombia",
+      "ramo": "Responsabilidad Civil General",
+      "tipo_negocio": "Renovación",
+      "fecha_recepcion": "2026-09-26",
+      "fecha_maxima": "2026-10-03",
+      "descripcion": "Solicitud de renovación para Química Industrial del Norte S.A.S. en Responsabilidad Civil General. Incluye descripción de operaciones y documentación de soporte.",
+      "adjuntos": [
+        {
+          "nombre": "Formulario de solicitud.pdf",
+          "tipo": "PDF",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Plano de instalaciones.jpg",
+          "tipo": "Imagen",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Póliza anterior.pdf",
+          "tipo": "PDF",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Memoria técnica.docx",
+          "tipo": "Word",
+          "procesado": true,
+          "nota": null
+        }
+      ],
+      "informacion_minima_completa": true,
+      "faltantes": [],
+      "duplicado_de": null,
+      "duplicado_score": null,
+      "fuera_lineamientos": false,
+      "motivo_fuera_lineamientos": null,
+      "estandarizable": true,
+      "fuentes": {
+        "info_solicitante": "Química Industrial del Norte S.A.S. (NIT 900456789-3) solicita renovación en Responsabilidad Civil General a través de Marsh Colombia. Recepción: 2026-09-26.",
+        "info_documentos": [
+          "Formulario de solicitud: actividad económica y límites declarados por el cliente.",
+          "Proforma previa localizada en el repositorio de proformas vigentes."
+        ],
+        "info_historica": [
+          "Sin pólizas previas registradas en el histórico consultado."
+        ],
+        "fuentes_externas": [
+          "Sin hallazgos relevantes en fuentes públicas (verificación manual pendiente)."
+        ],
+        "resultado_listas": "Sin coincidencias en listas restrictivas consultadas.",
+        "reglas_suscripcion": [
+          "Límite de capacidad vigente para Responsabilidad Civil General: consultar matriz de suscripción.",
+          "Toda recomendación requiere aprobación del suscriptor asignado."
+        ]
+      },
+      "categoria": 4,
+      "confianza": 0.85,
+      "hallazgos": [
+        "Riesgo dentro de apetito y cubierto por proforma/plantilla estándar vigente."
+      ],
+      "recomendacion": "Generar borrador de cotización preliminar estándar para revisión del suscriptor.",
+      "decision_final": "Aprobado conforme a la recomendación del Copilot.",
+      "feedback": "categoria_modificada",
+      "estado": "decision_tomada",
+      "created_at": "2026-09-26T00:00:00",
+      "updated_at": "2026-09-27T03:00:00"
+    },
+    {
+      "id": 2,
+      "folio_number": "FOL-2026-00002",
+      "suscriptor_id": 2,
+      "suscriptor_nombre": "Carlos Andrés Gómez",
+      "cliente": "Metalúrgica del Pacífico S.A.",
+      "nit": "901567890-4",
+      "intermediario": "Aon Colombia",
+      "ramo": "Responsabilidad de Producto",
+      "tipo_negocio": "Renovación",
+      "fecha_recepcion": "2026-09-09",
+      "fecha_maxima": "2026-09-16",
+      "descripcion": "Solicitud de renovación para Metalúrgica del Pacífico S.A. en Responsabilidad de Producto. Incluye descripción de operaciones y documentación de soporte.",
+      "adjuntos": [
+        {
+          "nombre": "Proforma vigente.xlsx",
+          "tipo": "Excel",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Carta de intermediario.msg",
+          "tipo": "MSG",
+          "procesado": true,
+          "nota": null
+        }
+      ],
+      "informacion_minima_completa": true,
+      "faltantes": [],
+      "duplicado_de": null,
+      "duplicado_score": null,
+      "fuera_lineamientos": false,
+      "motivo_fuera_lineamientos": null,
+      "estandarizable": true,
+      "fuentes": {
+        "info_solicitante": "Metalúrgica del Pacífico S.A. (NIT 901567890-4) solicita renovación en Responsabilidad de Producto a través de Aon Colombia. Recepción: 2026-09-09.",
+        "info_documentos": [
+          "Formulario de solicitud: actividad económica y límites declarados por el cliente.",
+          "Proforma previa localizada en el repositorio de proformas vigentes."
+        ],
+        "info_historica": [
+          "Sin pólizas previas registradas en el histórico consultado."
+        ],
+        "fuentes_externas": [
+          "Mención en prensa local sobre un hallazgo menor; requiere verificación de fuente primaria antes de usarse."
+        ],
+        "resultado_listas": "Sin coincidencias en listas restrictivas consultadas.",
+        "reglas_suscripcion": [
+          "Límite de capacidad vigente para Responsabilidad de Producto: consultar matriz de suscripción.",
+          "Toda recomendación requiere aprobación del suscriptor asignado."
+        ]
+      },
+      "categoria": 4,
+      "confianza": 0.85,
+      "hallazgos": [
+        "Riesgo dentro de apetito y cubierto por proforma/plantilla estándar vigente."
+      ],
+      "recomendacion": "Generar borrador de cotización preliminar estándar para revisión del suscriptor.",
+      "decision_final": "Se solicitó información adicional antes de decidir.",
+      "feedback": "correcta",
+      "estado": "decision_tomada",
+      "created_at": "2026-09-09T00:00:00",
+      "updated_at": "2026-09-10T12:00:00"
+    },
+    {
+      "id": 3,
+      "folio_number": "FOL-2026-00003",
+      "suscriptor_id": 3,
+      "suscriptor_nombre": "Laura Fernanda Ruiz",
+      "cliente": "Residuos y Reciclaje S.A.S.",
+      "nit": "901890123-7",
+      "intermediario": "Aon Colombia",
+      "ramo": "Responsabilidad Civil General",
+      "tipo_negocio": "Endoso",
+      "fecha_recepcion": "2026-09-16",
+      "fecha_maxima": "2026-09-25",
+      "descripcion": "Solicitud de endoso para Residuos y Reciclaje S.A.S. en Responsabilidad Civil General. Incluye descripción de operaciones y documentación de soporte.",
+      "adjuntos": [
+        {
+          "nombre": "Plano de instalaciones.jpg",
+          "tipo": "Imagen",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Proforma vigente.xlsx",
+          "tipo": "Excel",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Formulario de solicitud.pdf",
+          "tipo": "PDF",
+          "procesado": true,
+          "nota": null
+        }
+      ],
+      "informacion_minima_completa": true,
+      "faltantes": [],
+      "duplicado_de": null,
+      "duplicado_score": null,
+      "fuera_lineamientos": false,
+      "motivo_fuera_lineamientos": null,
+      "estandarizable": true,
+      "fuentes": {
+        "info_solicitante": "Residuos y Reciclaje S.A.S. (NIT 901890123-7) solicita endoso en Responsabilidad Civil General a través de Aon Colombia. Recepción: 2026-09-16.",
+        "info_documentos": [
+          "Formulario de solicitud: actividad económica y límites declarados por el cliente.",
+          "Proforma previa localizada en el repositorio de proformas vigentes."
+        ],
+        "info_historica": [
+          "Registro de un siniestro menor en el periodo anterior, ya cerrado."
+        ],
+        "fuentes_externas": [
+          "Sin hallazgos relevantes en fuentes públicas (verificación manual pendiente)."
+        ],
+        "resultado_listas": "Sin coincidencias en listas restrictivas consultadas.",
+        "reglas_suscripcion": [
+          "Límite de capacidad vigente para Responsabilidad Civil General: consultar matriz de suscripción.",
+          "Toda recomendación requiere aprobación del suscriptor asignado."
+        ]
+      },
+      "categoria": 4,
+      "confianza": 0.85,
+      "hallazgos": [
+        "Riesgo dentro de apetito y cubierto por proforma/plantilla estándar vigente."
+      ],
+      "recomendacion": "Generar borrador de cotización preliminar estándar para revisión del suscriptor.",
+      "decision_final": "Aprobado conforme a la recomendación del Copilot.",
+      "feedback": "correcta",
+      "estado": "decision_tomada",
+      "created_at": "2026-09-16T00:00:00",
+      "updated_at": "2026-09-17T18:00:00"
+    },
+    {
+      "id": 4,
+      "folio_number": "FOL-2026-00004",
+      "suscriptor_id": 4,
+      "suscriptor_nombre": "Esteban Castaño Valencia",
+      "cliente": "Energía Renovable del Caribe S.A.S.",
+      "nit": "900901234-8",
+      "intermediario": "Marsh Colombia",
+      "ramo": "Responsabilidad Ambiental",
+      "tipo_negocio": "Renovación",
+      "fecha_recepcion": "2026-09-22",
+      "fecha_maxima": "2026-10-02",
+      "descripcion": "Favor cotizar, queda pendiente el resto de información.",
+      "adjuntos": [
+        {
+          "nombre": "Plano de instalaciones.jpg",
+          "tipo": "Imagen",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Proforma vigente.xlsx",
+          "tipo": "Excel",
+          "procesado": true,
+          "nota": null
+        }
+      ],
+      "informacion_minima_completa": false,
+      "faltantes": [
+        "descripción de operaciones y procesos",
+        "valor asegurado solicitado"
+      ],
+      "duplicado_de": null,
+      "duplicado_score": null,
+      "fuera_lineamientos": false,
+      "motivo_fuera_lineamientos": null,
+      "estandarizable": false,
+      "fuentes": {
+        "info_solicitante": "Energía Renovable del Caribe S.A.S. (NIT 900901234-8) solicita renovación en Responsabilidad Ambiental a través de Marsh Colombia. Recepción: 2026-09-22.",
+        "info_documentos": [
+          "Formulario de solicitud: actividad económica y límites declarados por el cliente.",
+          "Proforma previa localizada en el repositorio de proformas vigentes."
+        ],
+        "info_historica": [
+          "Póliza anterior vigente en el periodo previo, sin siniestros reportados."
+        ],
+        "fuentes_externas": [
+          "Mención en prensa local sobre un hallazgo menor; requiere verificación de fuente primaria antes de usarse."
+        ],
+        "resultado_listas": "Sin coincidencias en listas restrictivas consultadas.",
+        "reglas_suscripcion": [
+          "Límite de capacidad vigente para Responsabilidad Ambiental: consultar matriz de suscripción.",
+          "Toda recomendación requiere aprobación del suscriptor asignado."
+        ]
+      },
+      "categoria": 1,
+      "confianza": 0.6,
+      "hallazgos": [
+        "Información mínima incompleta: descripción de operaciones y procesos, valor asegurado solicitado"
+      ],
+      "recomendacion": "Solicitar al intermediario la información faltante antes de continuar el análisis.",
+      "decision_final": "Decisión ajustada por el suscriptor tras revisión manual.",
+      "feedback": "correcta",
+      "estado": "decision_tomada",
+      "created_at": "2026-09-22T00:00:00",
+      "updated_at": "2026-09-23T11:00:00"
+    },
+    {
+      "id": 5,
+      "folio_number": "FOL-2026-00005",
+      "suscriptor_id": 1,
+      "suscriptor_nombre": "Mariana Pérez Londoño",
+      "cliente": "AgroVerde del Cauca Ltda.",
+      "nit": "900234567-1",
+      "intermediario": "Willis Towers Watson",
+      "ramo": "Responsabilidad Civil General",
+      "tipo_negocio": "Nuevo negocio",
+      "fecha_recepcion": "2026-09-21",
+      "fecha_maxima": "2026-09-30",
+      "descripcion": "Favor cotizar, queda pendiente el resto de información.",
+      "adjuntos": [
+        {
+          "nombre": "Memoria técnica.docx",
+          "tipo": "Word",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Póliza anterior.pdf",
+          "tipo": "PDF",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Proforma vigente.xlsx",
+          "tipo": "Excel",
+          "procesado": true,
+          "nota": null
+        }
+      ],
+      "informacion_minima_completa": false,
+      "faltantes": [
+        "descripción de operaciones y procesos",
+        "actividad económica detallada",
+        "vigencia solicitada"
+      ],
+      "duplicado_de": null,
+      "duplicado_score": null,
+      "fuera_lineamientos": false,
+      "motivo_fuera_lineamientos": null,
+      "estandarizable": false,
+      "fuentes": {
+        "info_solicitante": "AgroVerde del Cauca Ltda. (NIT 900234567-1) solicita nuevo negocio en Responsabilidad Civil General a través de Willis Towers Watson. Recepción: 2026-09-21.",
+        "info_documentos": [
+          "Formulario de solicitud: actividad económica y límites declarados por el cliente.",
+          "No se encontró proforma previa asociada a esta actividad; requiere cotización manual."
+        ],
+        "info_historica": [
+          "Sin pólizas previas registradas en el histórico consultado."
+        ],
+        "fuentes_externas": [
+          "Sin hallazgos relevantes en fuentes públicas (verificación manual pendiente)."
+        ],
+        "resultado_listas": "Sin coincidencias en listas restrictivas consultadas.",
+        "reglas_suscripcion": [
+          "Límite de capacidad vigente para Responsabilidad Civil General: consultar matriz de suscripción.",
+          "Toda recomendación requiere aprobación del suscriptor asignado."
+        ]
+      },
+      "categoria": 1,
+      "confianza": 0.6,
+      "hallazgos": [
+        "Información mínima incompleta: descripción de operaciones y procesos, actividad económica detallada, vigencia solicitada"
+      ],
+      "recomendacion": "Solicitar al intermediario la información faltante antes de continuar el análisis.",
+      "decision_final": null,
+      "feedback": null,
+      "estado": "analizado",
+      "created_at": "2026-09-21T00:00:00",
+      "updated_at": "2026-09-22T01:00:00"
+    },
+    {
+      "id": 6,
+      "folio_number": "FOL-2026-00006",
+      "suscriptor_id": 2,
+      "suscriptor_nombre": "Carlos Andrés Gómez",
+      "cliente": "Farmacéutica Andina S.A.S.",
+      "nit": "901456789-3",
+      "intermediario": "Willis Towers Watson",
+      "ramo": "Responsabilidad de Producto",
+      "tipo_negocio": "Endoso",
+      "fecha_recepcion": "2026-09-26",
+      "fecha_maxima": "2026-10-03",
+      "descripcion": "Solicitud de endoso para Farmacéutica Andina S.A.S. en Responsabilidad de Producto. Incluye descripción de operaciones y documentación de soporte.",
+      "adjuntos": [
+        {
+          "nombre": "Proforma vigente.xlsx",
+          "tipo": "Excel",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Memoria técnica.docx",
+          "tipo": "Word",
+          "procesado": true,
+          "nota": null
+        }
+      ],
+      "informacion_minima_completa": true,
+      "faltantes": [],
+      "duplicado_de": null,
+      "duplicado_score": null,
+      "fuera_lineamientos": true,
+      "motivo_fuera_lineamientos": "actividad de minería a cielo abierto sin plan de manejo ambiental vigente",
+      "estandarizable": false,
+      "fuentes": {
+        "info_solicitante": "Farmacéutica Andina S.A.S. (NIT 901456789-3) solicita endoso en Responsabilidad de Producto a través de Willis Towers Watson. Recepción: 2026-09-26.",
+        "info_documentos": [
+          "Formulario de solicitud: actividad económica y límites declarados por el cliente.",
+          "No se encontró proforma previa asociada a esta actividad; requiere cotización manual."
+        ],
+        "info_historica": [
+          "Registro de un siniestro menor en el periodo anterior, ya cerrado."
+        ],
+        "fuentes_externas": [
+          "Sin hallazgos relevantes en fuentes públicas (verificación manual pendiente)."
+        ],
+        "resultado_listas": "Sin coincidencias en listas restrictivas consultadas.",
+        "reglas_suscripcion": [
+          "Límite de capacidad vigente para Responsabilidad de Producto: consultar matriz de suscripción.",
+          "Toda recomendación requiere aprobación del suscriptor asignado."
+        ]
+      },
+      "categoria": 3,
+      "confianza": 0.8,
+      "hallazgos": [
+        "Riesgo fuera de lineamientos de suscripción: actividad de minería a cielo abierto sin plan de manejo ambiental vigente"
+      ],
+      "recomendacion": "Preparar declinación sustentada para aprobación del suscriptor.",
+      "decision_final": null,
+      "feedback": null,
+      "estado": "analizado",
+      "created_at": "2026-09-26T00:00:00",
+      "updated_at": "2026-09-26T16:00:00"
+    },
+    {
+      "id": 7,
+      "folio_number": "FOL-2026-00007",
+      "suscriptor_id": 3,
+      "suscriptor_nombre": "Laura Fernanda Ruiz",
+      "cliente": "Hidrocarburos del Magdalena S.A.",
+      "nit": "901789012-6",
+      "intermediario": "Aon Colombia",
+      "ramo": "Responsabilidad Ambiental",
+      "tipo_negocio": "Precotizado",
+      "fecha_recepcion": "2026-09-12",
+      "fecha_maxima": "2026-09-18",
+      "descripcion": "Solicitud de precotizado para Hidrocarburos del Magdalena S.A. en Responsabilidad Ambiental. Incluye descripción de operaciones y documentación de soporte.",
+      "adjuntos": [
+        {
+          "nombre": "Memoria técnica.docx",
+          "tipo": "Word",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Carta de intermediario.msg",
+          "tipo": "MSG",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Formulario de solicitud.pdf",
+          "tipo": "PDF",
+          "procesado": true,
+          "nota": null
+        }
+      ],
+      "informacion_minima_completa": true,
+      "faltantes": [],
+      "duplicado_de": null,
+      "duplicado_score": null,
+      "fuera_lineamientos": false,
+      "motivo_fuera_lineamientos": null,
+      "estandarizable": true,
+      "fuentes": {
+        "info_solicitante": "Hidrocarburos del Magdalena S.A. (NIT 901789012-6) solicita precotizado en Responsabilidad Ambiental a través de Aon Colombia. Recepción: 2026-09-12.",
+        "info_documentos": [
+          "Formulario de solicitud: actividad económica y límites declarados por el cliente.",
+          "No se encontró proforma previa asociada a esta actividad; requiere cotización manual."
+        ],
+        "info_historica": [
+          "Póliza anterior vigente en el periodo previo, sin siniestros reportados."
+        ],
+        "fuentes_externas": [
+          "Sin hallazgos relevantes en fuentes públicas (verificación manual pendiente)."
+        ],
+        "resultado_listas": "Sin coincidencias en listas restrictivas consultadas.",
+        "reglas_suscripcion": [
+          "Límite de capacidad vigente para Responsabilidad Ambiental: consultar matriz de suscripción.",
+          "Toda recomendación requiere aprobación del suscriptor asignado."
+        ]
+      },
+      "categoria": 4,
+      "confianza": 0.85,
+      "hallazgos": [
+        "Riesgo dentro de apetito y cubierto por proforma/plantilla estándar vigente."
+      ],
+      "recomendacion": "Generar borrador de cotización preliminar estándar para revisión del suscriptor.",
+      "decision_final": "Decisión ajustada por el suscriptor tras revisión manual.",
+      "feedback": "parcial",
+      "estado": "decision_tomada",
+      "created_at": "2026-09-12T00:00:00",
+      "updated_at": "2026-09-13T23:00:00"
+    },
+    {
+      "id": 8,
+      "folio_number": "FOL-2026-00008",
+      "suscriptor_id": 4,
+      "suscriptor_nombre": "Esteban Castaño Valencia",
+      "cliente": "Ingeniería Ambiental Ltda.",
+      "nit": "900678901-5",
+      "intermediario": "Proteger Corredores de Seguros",
+      "ramo": "Responsabilidad de Producto",
+      "tipo_negocio": "Nuevo negocio",
+      "fecha_recepcion": "2026-09-24",
+      "fecha_maxima": "2026-10-09",
+      "descripcion": "Solicitud de nuevo negocio para Ingeniería Ambiental Ltda. en Responsabilidad de Producto. Incluye descripción de operaciones y documentación de soporte.",
+      "adjuntos": [
+        {
+          "nombre": "Plano de instalaciones.jpg",
+          "tipo": "Imagen",
+          "procesado": false,
+          "nota": "Imagen escaneada de baja calidad: no procesable automáticamente."
+        },
+        {
+          "nombre": "Memoria técnica.docx",
+          "tipo": "Word",
+          "procesado": true,
+          "nota": null
+        }
+      ],
+      "informacion_minima_completa": true,
+      "faltantes": [],
+      "duplicado_de": null,
+      "duplicado_score": null,
+      "fuera_lineamientos": true,
+      "motivo_fuera_lineamientos": "límite de responsabilidad solicitado supera la capacidad autorizada para el ramo",
+      "estandarizable": false,
+      "fuentes": {
+        "info_solicitante": "Ingeniería Ambiental Ltda. (NIT 900678901-5) solicita nuevo negocio en Responsabilidad de Producto a través de Proteger Corredores de Seguros. Recepción: 2026-09-24.",
+        "info_documentos": [
+          "Formulario de solicitud: actividad económica y límites declarados por el cliente.",
+          "No se encontró proforma previa asociada a esta actividad; requiere cotización manual."
+        ],
+        "info_historica": [
+          "Póliza anterior vigente en el periodo previo, sin siniestros reportados."
+        ],
+        "fuentes_externas": [
+          "Sin hallazgos relevantes en fuentes públicas (verificación manual pendiente)."
+        ],
+        "resultado_listas": "Sin coincidencias en listas restrictivas consultadas.",
+        "reglas_suscripcion": [
+          "Límite de capacidad vigente para Responsabilidad de Producto: consultar matriz de suscripción.",
+          "Toda recomendación requiere aprobación del suscriptor asignado."
+        ]
+      },
+      "categoria": 3,
+      "confianza": 0.8,
+      "hallazgos": [
+        "Adjuntos no procesables marcados explícitamente (no se asume su contenido): Plano de instalaciones.jpg",
+        "Riesgo fuera de lineamientos de suscripción: límite de responsabilidad solicitado supera la capacidad autorizada para el ramo"
+      ],
+      "recomendacion": "Preparar declinación sustentada para aprobación del suscriptor.",
+      "decision_final": null,
+      "feedback": null,
+      "estado": "analizado",
+      "created_at": "2026-09-24T00:00:00",
+      "updated_at": "2026-09-25T04:00:00"
+    },
+    {
+      "id": 9,
+      "folio_number": "FOL-2026-00009",
+      "suscriptor_id": 1,
+      "suscriptor_nombre": "Mariana Pérez Londoño",
+      "cliente": "Textiles Antioqueños S.A.",
+      "nit": "901012345-9",
+      "intermediario": "Marsh Colombia",
+      "ramo": "Responsabilidad Civil General",
+      "tipo_negocio": "Nuevo negocio",
+      "fecha_recepcion": "2026-09-05",
+      "fecha_maxima": "2026-09-19",
+      "descripcion": "Solicitud de nuevo negocio para Textiles Antioqueños S.A. en Responsabilidad Civil General. Incluye descripción de operaciones y documentación de soporte.",
+      "adjuntos": [
+        {
+          "nombre": "Formulario de solicitud.pdf",
+          "tipo": "PDF",
+          "procesado": false,
+          "nota": "Imagen escaneada de baja calidad: no procesable automáticamente."
+        },
+        {
+          "nombre": "Plano de instalaciones.jpg",
+          "tipo": "Imagen",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Proforma vigente.xlsx",
+          "tipo": "Excel",
+          "procesado": true,
+          "nota": null
+        }
+      ],
+      "informacion_minima_completa": true,
+      "faltantes": [],
+      "duplicado_de": null,
+      "duplicado_score": null,
+      "fuera_lineamientos": false,
+      "motivo_fuera_lineamientos": null,
+      "estandarizable": false,
+      "fuentes": {
+        "info_solicitante": "Textiles Antioqueños S.A. (NIT 901012345-9) solicita nuevo negocio en Responsabilidad Civil General a través de Marsh Colombia. Recepción: 2026-09-05.",
+        "info_documentos": [
+          "Formulario de solicitud: actividad económica y límites declarados por el cliente.",
+          "No se encontró proforma previa asociada a esta actividad; requiere cotización manual."
+        ],
+        "info_historica": [
+          "Registro de un siniestro menor en el periodo anterior, ya cerrado."
+        ],
+        "fuentes_externas": [
+          "Sin hallazgos relevantes en fuentes públicas (verificación manual pendiente)."
+        ],
+        "resultado_listas": "Sin coincidencias en listas restrictivas consultadas.",
+        "reglas_suscripcion": [
+          "Límite de capacidad vigente para Responsabilidad Civil General: consultar matriz de suscripción.",
+          "Toda recomendación requiere aprobación del suscriptor asignado."
+        ]
+      },
+      "categoria": 5,
+      "confianza": 0.7,
+      "hallazgos": [
+        "Adjuntos no procesables marcados explícitamente (no se asume su contenido): Formulario de solicitud.pdf",
+        "Riesgo elegible pero no cubierto por una plantilla estándar vigente."
+      ],
+      "recomendacion": "Estructurar informe de suscripción con sugerencias para decisión manual.",
+      "decision_final": "Aprobado conforme a la recomendación del Copilot.",
+      "feedback": "correcta",
+      "estado": "decision_tomada",
+      "created_at": "2026-09-05T00:00:00",
+      "updated_at": "2026-09-06T01:00:00"
+    },
+    {
+      "id": 10,
+      "folio_number": "FOL-2026-00010",
+      "suscriptor_id": 2,
+      "suscriptor_nombre": "Carlos Andrés Gómez",
+      "cliente": "Papelería Industrial Ltda.",
+      "nit": "901345678-2",
+      "intermediario": "Correduría Andina de Seguros",
+      "ramo": "D&O",
+      "tipo_negocio": "Renovación",
+      "fecha_recepcion": "2026-09-05",
+      "fecha_maxima": "2026-09-18",
+      "descripcion": "Solicitud de renovación para Papelería Industrial Ltda. en D&O. Incluye descripción de operaciones y documentación de soporte.",
+      "adjuntos": [
+        {
+          "nombre": "Formulario de solicitud.pdf",
+          "tipo": "PDF",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Plano de instalaciones.jpg",
+          "tipo": "Imagen",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Proforma vigente.xlsx",
+          "tipo": "Excel",
+          "procesado": true,
+          "nota": null
+        }
+      ],
+      "informacion_minima_completa": true,
+      "faltantes": [],
+      "duplicado_de": null,
+      "duplicado_score": null,
+      "fuera_lineamientos": true,
+      "motivo_fuera_lineamientos": "límite de responsabilidad solicitado supera la capacidad autorizada para el ramo",
+      "estandarizable": false,
+      "fuentes": {
+        "info_solicitante": "Papelería Industrial Ltda. (NIT 901345678-2) solicita renovación en D&O a través de Correduría Andina de Seguros. Recepción: 2026-09-05.",
+        "info_documentos": [
+          "Formulario de solicitud: actividad económica y límites declarados por el cliente.",
+          "Proforma previa localizada en el repositorio de proformas vigentes."
+        ],
+        "info_historica": [
+          "Sin pólizas previas registradas en el histórico consultado."
+        ],
+        "fuentes_externas": [
+          "Sin hallazgos relevantes en fuentes públicas (verificación manual pendiente)."
+        ],
+        "resultado_listas": "Sin coincidencias en listas restrictivas consultadas.",
+        "reglas_suscripcion": [
+          "Límite de capacidad vigente para D&O: consultar matriz de suscripción.",
+          "Toda recomendación requiere aprobación del suscriptor asignado."
+        ]
+      },
+      "categoria": null,
+      "confianza": null,
+      "hallazgos": [],
+      "recomendacion": null,
+      "decision_final": null,
+      "feedback": null,
+      "estado": "nuevo",
+      "created_at": "2026-09-05T00:00:00",
+      "updated_at": "2026-09-05T00:00:00"
+    },
+    {
+      "id": 11,
+      "folio_number": "FOL-2026-00011",
+      "suscriptor_id": 3,
+      "suscriptor_nombre": "Laura Fernanda Ruiz",
+      "cliente": "Transportes del Valle S.A.",
+      "nit": "900345678-2",
+      "intermediario": "Aon Colombia",
+      "ramo": "Responsabilidad Civil General",
+      "tipo_negocio": "Renovación",
+      "fecha_recepcion": "2026-09-17",
+      "fecha_maxima": "2026-09-25",
+      "descripcion": "Favor cotizar, queda pendiente el resto de información.",
+      "adjuntos": [
+        {
+          "nombre": "Plano de instalaciones.jpg",
+          "tipo": "Imagen",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Póliza anterior.pdf",
+          "tipo": "PDF",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Proforma vigente.xlsx",
+          "tipo": "Excel",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Memoria técnica.docx",
+          "tipo": "Word",
+          "procesado": false,
+          "nota": "Imagen escaneada de baja calidad: no procesable automáticamente."
+        }
+      ],
+      "informacion_minima_completa": false,
+      "faltantes": [
+        "vigencia solicitada",
+        "siniestralidad de los últimos 3 años"
+      ],
+      "duplicado_de": null,
+      "duplicado_score": null,
+      "fuera_lineamientos": false,
+      "motivo_fuera_lineamientos": null,
+      "estandarizable": false,
+      "fuentes": {
+        "info_solicitante": "Transportes del Valle S.A. (NIT 900345678-2) solicita renovación en Responsabilidad Civil General a través de Aon Colombia. Recepción: 2026-09-17.",
+        "info_documentos": [
+          "Formulario de solicitud: actividad económica y límites declarados por el cliente.",
+          "Proforma previa localizada en el repositorio de proformas vigentes."
+        ],
+        "info_historica": [
+          "Sin pólizas previas registradas en el histórico consultado."
+        ],
+        "fuentes_externas": [
+          "Sin hallazgos relevantes en fuentes públicas (verificación manual pendiente)."
+        ],
+        "resultado_listas": "Sin coincidencias en listas restrictivas consultadas.",
+        "reglas_suscripcion": [
+          "Límite de capacidad vigente para Responsabilidad Civil General: consultar matriz de suscripción.",
+          "Toda recomendación requiere aprobación del suscriptor asignado."
+        ]
+      },
+      "categoria": 1,
+      "confianza": 0.6,
+      "hallazgos": [
+        "Adjuntos no procesables marcados explícitamente (no se asume su contenido): Memoria técnica.docx",
+        "Información mínima incompleta: vigencia solicitada, siniestralidad de los últimos 3 años"
+      ],
+      "recomendacion": "Solicitar al intermediario la información faltante antes de continuar el análisis.",
+      "decision_final": null,
+      "feedback": null,
+      "estado": "analizado",
+      "created_at": "2026-09-17T00:00:00",
+      "updated_at": "2026-09-17T15:00:00"
+    },
+    {
+      "id": 12,
+      "folio_number": "FOL-2026-00012",
+      "suscriptor_id": 4,
+      "suscriptor_nombre": "Esteban Castaño Valencia",
+      "cliente": "Metalúrgica del Pacífico S.A.",
+      "nit": "901567890-4",
+      "intermediario": "Aon Colombia",
+      "ramo": "Responsabilidad Civil General",
+      "tipo_negocio": "Nuevo negocio",
+      "fecha_recepcion": "2026-09-21",
+      "fecha_maxima": "2026-10-01",
+      "descripcion": "Solicitud de nuevo negocio para Metalúrgica del Pacífico S.A. en Responsabilidad Civil General. Incluye descripción de operaciones y documentación de soporte.",
+      "adjuntos": [
+        {
+          "nombre": "Proforma vigente.xlsx",
+          "tipo": "Excel",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Plano de instalaciones.jpg",
+          "tipo": "Imagen",
+          "procesado": false,
+          "nota": "Imagen escaneada de baja calidad: no procesable automáticamente."
+        }
+      ],
+      "informacion_minima_completa": true,
+      "faltantes": [],
+      "duplicado_de": null,
+      "duplicado_score": null,
+      "fuera_lineamientos": false,
+      "motivo_fuera_lineamientos": null,
+      "estandarizable": true,
+      "fuentes": {
+        "info_solicitante": "Metalúrgica del Pacífico S.A. (NIT 901567890-4) solicita nuevo negocio en Responsabilidad Civil General a través de Aon Colombia. Recepción: 2026-09-21.",
+        "info_documentos": [
+          "Formulario de solicitud: actividad económica y límites declarados por el cliente.",
+          "Proforma previa localizada en el repositorio de proformas vigentes."
+        ],
+        "info_historica": [
+          "Póliza anterior vigente en el periodo previo, sin siniestros reportados."
+        ],
+        "fuentes_externas": [
+          "Sin hallazgos relevantes en fuentes públicas (verificación manual pendiente)."
+        ],
+        "resultado_listas": "Sin coincidencias en listas restrictivas consultadas.",
+        "reglas_suscripcion": [
+          "Límite de capacidad vigente para Responsabilidad Civil General: consultar matriz de suscripción.",
+          "Toda recomendación requiere aprobación del suscriptor asignado."
+        ]
+      },
+      "categoria": 4,
+      "confianza": 0.85,
+      "hallazgos": [
+        "Adjuntos no procesables marcados explícitamente (no se asume su contenido): Plano de instalaciones.jpg",
+        "Riesgo dentro de apetito y cubierto por proforma/plantilla estándar vigente."
+      ],
+      "recomendacion": "Generar borrador de cotización preliminar estándar para revisión del suscriptor.",
+      "decision_final": null,
+      "feedback": null,
+      "estado": "analizado",
+      "created_at": "2026-09-21T00:00:00",
+      "updated_at": "2026-09-21T04:00:00"
+    },
+    {
+      "id": 13,
+      "folio_number": "FOL-2026-00013",
+      "suscriptor_id": 1,
+      "suscriptor_nombre": "Mariana Pérez Londoño",
+      "cliente": "Metalúrgica del Pacífico S.A.",
+      "nit": "901567890-4",
+      "intermediario": "Aon Colombia",
+      "ramo": "Otra línea (fuera de alcance)",
+      "tipo_negocio": "Precotizado",
+      "fecha_recepcion": "2026-10-02",
+      "fecha_maxima": "2026-10-17",
+      "descripcion": "Solicitud de precotizado para Metalúrgica del Pacífico S.A. en Otra línea (fuera de alcance). Incluye descripción de operaciones y documentación de soporte.",
+      "adjuntos": [
+        {
+          "nombre": "Proforma vigente.xlsx",
+          "tipo": "Excel",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Memoria técnica.docx",
+          "tipo": "Word",
+          "procesado": true,
+          "nota": null
+        }
+      ],
+      "informacion_minima_completa": true,
+      "faltantes": [],
+      "duplicado_de": null,
+      "duplicado_score": null,
+      "fuera_lineamientos": false,
+      "motivo_fuera_lineamientos": null,
+      "estandarizable": false,
+      "fuentes": {
+        "info_solicitante": "Metalúrgica del Pacífico S.A. (NIT 901567890-4) solicita precotizado en Otra línea (fuera de alcance) a través de Aon Colombia. Recepción: 2026-10-02.",
+        "info_documentos": [
+          "Formulario de solicitud: actividad económica y límites declarados por el cliente.",
+          "No se encontró proforma previa asociada a esta actividad; requiere cotización manual."
+        ],
+        "info_historica": [
+          "Póliza anterior vigente en el periodo previo, sin siniestros reportados."
+        ],
+        "fuentes_externas": [
+          "Mención en prensa local sobre un hallazgo menor; requiere verificación de fuente primaria antes de usarse."
+        ],
+        "resultado_listas": "Sin coincidencias en listas restrictivas consultadas.",
+        "reglas_suscripcion": [
+          "Límite de capacidad vigente para Otra línea (fuera de alcance): consultar matriz de suscripción.",
+          "Toda recomendación requiere aprobación del suscriptor asignado."
+        ]
+      },
+      "categoria": 5,
+      "confianza": 0.7,
+      "hallazgos": [
+        "Riesgo elegible pero no cubierto por una plantilla estándar vigente."
+      ],
+      "recomendacion": "Estructurar informe de suscripción con sugerencias para decisión manual.",
+      "decision_final": null,
+      "feedback": null,
+      "estado": "analizado",
+      "created_at": "2026-10-02T00:00:00",
+      "updated_at": "2026-10-02T03:00:00"
+    },
+    {
+      "id": 14,
+      "folio_number": "FOL-2026-00014",
+      "suscriptor_id": 2,
+      "suscriptor_nombre": "Carlos Andrés Gómez",
+      "cliente": "Ingeniería Ambiental Ltda.",
+      "nit": "900678901-5",
+      "intermediario": "Correduría Andina de Seguros",
+      "ramo": "Responsabilidad Ambiental",
+      "tipo_negocio": "Renovación",
+      "fecha_recepcion": "2026-09-24",
+      "fecha_maxima": "2026-10-05",
+      "descripcion": "Solicitud de renovación para Ingeniería Ambiental Ltda. en Responsabilidad Ambiental. Incluye descripción de operaciones y documentación de soporte.",
+      "adjuntos": [
+        {
+          "nombre": "Memoria técnica.docx",
+          "tipo": "Word",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Póliza anterior.pdf",
+          "tipo": "PDF",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Proforma vigente.xlsx",
+          "tipo": "Excel",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Formulario de solicitud.pdf",
+          "tipo": "PDF",
+          "procesado": true,
+          "nota": null
+        }
+      ],
+      "informacion_minima_completa": true,
+      "faltantes": [],
+      "duplicado_de": null,
+      "duplicado_score": null,
+      "fuera_lineamientos": false,
+      "motivo_fuera_lineamientos": null,
+      "estandarizable": true,
+      "fuentes": {
+        "info_solicitante": "Ingeniería Ambiental Ltda. (NIT 900678901-5) solicita renovación en Responsabilidad Ambiental a través de Correduría Andina de Seguros. Recepción: 2026-09-24.",
+        "info_documentos": [
+          "Formulario de solicitud: actividad económica y límites declarados por el cliente.",
+          "No se encontró proforma previa asociada a esta actividad; requiere cotización manual."
+        ],
+        "info_historica": [
+          "Sin pólizas previas registradas en el histórico consultado."
+        ],
+        "fuentes_externas": [
+          "Sin hallazgos relevantes en fuentes públicas (verificación manual pendiente)."
+        ],
+        "resultado_listas": "Sin coincidencias en listas restrictivas consultadas.",
+        "reglas_suscripcion": [
+          "Límite de capacidad vigente para Responsabilidad Ambiental: consultar matriz de suscripción.",
+          "Toda recomendación requiere aprobación del suscriptor asignado."
+        ]
+      },
+      "categoria": 4,
+      "confianza": 0.85,
+      "hallazgos": [
+        "Riesgo dentro de apetito y cubierto por proforma/plantilla estándar vigente."
+      ],
+      "recomendacion": "Generar borrador de cotización preliminar estándar para revisión del suscriptor.",
+      "decision_final": null,
+      "feedback": null,
+      "estado": "analizado",
+      "created_at": "2026-09-24T00:00:00",
+      "updated_at": "2026-09-25T01:00:00"
+    },
+    {
+      "id": 15,
+      "folio_number": "FOL-2026-00015",
+      "suscriptor_id": 3,
+      "suscriptor_nombre": "Laura Fernanda Ruiz",
+      "cliente": "Alimentos del Campo S.A.S.",
+      "nit": "901123456-0",
+      "intermediario": "Seguros & Riesgos Ltda.",
+      "ramo": "Responsabilidad Civil General",
+      "tipo_negocio": "Nuevo negocio",
+      "fecha_recepcion": "2026-09-18",
+      "fecha_maxima": "2026-10-01",
+      "descripcion": "Solicitud de nuevo negocio para Alimentos del Campo S.A.S. en Responsabilidad Civil General. Incluye descripción de operaciones y documentación de soporte.",
+      "adjuntos": [
+        {
+          "nombre": "Plano de instalaciones.jpg",
+          "tipo": "Imagen",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Formulario de solicitud.pdf",
+          "tipo": "PDF",
+          "procesado": true,
+          "nota": null
+        }
+      ],
+      "informacion_minima_completa": true,
+      "faltantes": [],
+      "duplicado_de": null,
+      "duplicado_score": null,
+      "fuera_lineamientos": false,
+      "motivo_fuera_lineamientos": null,
+      "estandarizable": false,
+      "fuentes": {
+        "info_solicitante": "Alimentos del Campo S.A.S. (NIT 901123456-0) solicita nuevo negocio en Responsabilidad Civil General a través de Seguros & Riesgos Ltda.. Recepción: 2026-09-18.",
+        "info_documentos": [
+          "Formulario de solicitud: actividad económica y límites declarados por el cliente.",
+          "Proforma previa localizada en el repositorio de proformas vigentes."
+        ],
+        "info_historica": [
+          "Sin pólizas previas registradas en el histórico consultado."
+        ],
+        "fuentes_externas": [
+          "Sin información adicional disponible en fuentes externas consultadas."
+        ],
+        "resultado_listas": "Sin coincidencias en listas restrictivas consultadas.",
+        "reglas_suscripcion": [
+          "Límite de capacidad vigente para Responsabilidad Civil General: consultar matriz de suscripción.",
+          "Toda recomendación requiere aprobación del suscriptor asignado."
+        ]
+      },
+      "categoria": 5,
+      "confianza": 0.7,
+      "hallazgos": [
+        "Riesgo elegible pero no cubierto por una plantilla estándar vigente."
+      ],
+      "recomendacion": "Estructurar informe de suscripción con sugerencias para decisión manual.",
+      "decision_final": "Aprobado conforme a la recomendación del Copilot.",
+      "feedback": "correcta",
+      "estado": "decision_tomada",
+      "created_at": "2026-09-18T00:00:00",
+      "updated_at": "2026-09-19T09:00:00"
+    },
+    {
+      "id": 16,
+      "folio_number": "FOL-2026-00016",
+      "suscriptor_id": 4,
+      "suscriptor_nombre": "Esteban Castaño Valencia",
+      "cliente": "AgroVerde del Cauca Ltda.",
+      "nit": "900234567-1",
+      "intermediario": "Seguros & Riesgos Ltda.",
+      "ramo": "Responsabilidad Ambiental",
+      "tipo_negocio": "Precotizado",
+      "fecha_recepcion": "2026-09-17",
+      "fecha_maxima": "2026-09-27",
+      "descripcion": "Solicitud de precotizado para AgroVerde del Cauca Ltda. en Responsabilidad Ambiental. Incluye descripción de operaciones y documentación de soporte.",
+      "adjuntos": [
+        {
+          "nombre": "Carta de intermediario.msg",
+          "tipo": "MSG",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Proforma vigente.xlsx",
+          "tipo": "Excel",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Memoria técnica.docx",
+          "tipo": "Word",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Plano de instalaciones.jpg",
+          "tipo": "Imagen",
+          "procesado": true,
+          "nota": null
+        }
+      ],
+      "informacion_minima_completa": true,
+      "faltantes": [],
+      "duplicado_de": null,
+      "duplicado_score": null,
+      "fuera_lineamientos": false,
+      "motivo_fuera_lineamientos": null,
+      "estandarizable": false,
+      "fuentes": {
+        "info_solicitante": "AgroVerde del Cauca Ltda. (NIT 900234567-1) solicita precotizado en Responsabilidad Ambiental a través de Seguros & Riesgos Ltda.. Recepción: 2026-09-17.",
+        "info_documentos": [
+          "Formulario de solicitud: actividad económica y límites declarados por el cliente.",
+          "Proforma previa localizada en el repositorio de proformas vigentes."
+        ],
+        "info_historica": [
+          "Registro de un siniestro menor en el periodo anterior, ya cerrado."
+        ],
+        "fuentes_externas": [
+          "Sin información adicional disponible en fuentes externas consultadas."
+        ],
+        "resultado_listas": "Sin coincidencias en listas restrictivas consultadas.",
+        "reglas_suscripcion": [
+          "Límite de capacidad vigente para Responsabilidad Ambiental: consultar matriz de suscripción.",
+          "Toda recomendación requiere aprobación del suscriptor asignado."
+        ]
+      },
+      "categoria": 5,
+      "confianza": 0.7,
+      "hallazgos": [
+        "Riesgo elegible pero no cubierto por una plantilla estándar vigente."
+      ],
+      "recomendacion": "Estructurar informe de suscripción con sugerencias para decisión manual.",
+      "decision_final": null,
+      "feedback": null,
+      "estado": "analizado",
+      "created_at": "2026-09-17T00:00:00",
+      "updated_at": "2026-09-18T02:00:00"
+    },
+    {
+      "id": 17,
+      "folio_number": "FOL-2026-00017",
+      "suscriptor_id": 1,
+      "suscriptor_nombre": "Mariana Pérez Londoño",
+      "cliente": "Transportes del Valle S.A.",
+      "nit": "900345678-2",
+      "intermediario": "Aon Colombia",
+      "ramo": "Responsabilidad de Producto",
+      "tipo_negocio": "Nuevo negocio",
+      "fecha_recepcion": "2026-09-16",
+      "fecha_maxima": "2026-09-24",
+      "descripcion": "Solicitud de nuevo negocio para Transportes del Valle S.A. en Responsabilidad de Producto. Incluye descripción de operaciones y documentación de soporte.",
+      "adjuntos": [
+        {
+          "nombre": "Proforma vigente.xlsx",
+          "tipo": "Excel",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Carta de intermediario.msg",
+          "tipo": "MSG",
+          "procesado": true,
+          "nota": null
+        }
+      ],
+      "informacion_minima_completa": true,
+      "faltantes": [],
+      "duplicado_de": "FOL-2026-00011",
+      "duplicado_score": 0.89,
+      "fuera_lineamientos": true,
+      "motivo_fuera_lineamientos": "límite de responsabilidad solicitado supera la capacidad autorizada para el ramo",
+      "estandarizable": false,
+      "fuentes": {
+        "info_solicitante": "Transportes del Valle S.A. (NIT 900345678-2) solicita nuevo negocio en Responsabilidad de Producto a través de Aon Colombia. Recepción: 2026-09-16.",
+        "info_documentos": [
+          "Formulario de solicitud: actividad económica y límites declarados por el cliente.",
+          "No se encontró proforma previa asociada a esta actividad; requiere cotización manual."
+        ],
+        "info_historica": [
+          "Folio relacionado detectado por NIT y ramo: FOL-2026-00011."
+        ],
+        "fuentes_externas": [
+          "Sin hallazgos relevantes en fuentes públicas (verificación manual pendiente)."
+        ],
+        "resultado_listas": "Sin coincidencias en listas restrictivas consultadas.",
+        "reglas_suscripcion": [
+          "Límite de capacidad vigente para Responsabilidad de Producto: consultar matriz de suscripción.",
+          "Toda recomendación requiere aprobación del suscriptor asignado."
+        ]
+      },
+      "categoria": 3,
+      "confianza": 0.8,
+      "hallazgos": [
+        "Posible duplicado del folio FOL-2026-00011 (similitud 89% por NIT, ramo y vigencia).",
+        "Riesgo fuera de lineamientos de suscripción: límite de responsabilidad solicitado supera la capacidad autorizada para el ramo"
+      ],
+      "recomendacion": "Preparar declinación sustentada para aprobación del suscriptor.",
+      "decision_final": null,
+      "feedback": null,
+      "estado": "analizado",
+      "created_at": "2026-09-16T00:00:00",
+      "updated_at": "2026-09-16T11:00:00"
+    },
+    {
+      "id": 18,
+      "folio_number": "FOL-2026-00018",
+      "suscriptor_id": 2,
+      "suscriptor_nombre": "Carlos Andrés Gómez",
+      "cliente": "Hidrocarburos del Magdalena S.A.",
+      "nit": "901789012-6",
+      "intermediario": "Marsh Colombia",
+      "ramo": "Responsabilidad Ambiental",
+      "tipo_negocio": "Nuevo negocio",
+      "fecha_recepcion": "2026-09-25",
+      "fecha_maxima": "2026-10-01",
+      "descripcion": "Solicitud de nuevo negocio para Hidrocarburos del Magdalena S.A. en Responsabilidad Ambiental. Incluye descripción de operaciones y documentación de soporte.",
+      "adjuntos": [
+        {
+          "nombre": "Carta de intermediario.msg",
+          "tipo": "MSG",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Memoria técnica.docx",
+          "tipo": "Word",
+          "procesado": true,
+          "nota": null
+        }
+      ],
+      "informacion_minima_completa": true,
+      "faltantes": [],
+      "duplicado_de": "FOL-2026-00007",
+      "duplicado_score": 0.93,
+      "fuera_lineamientos": false,
+      "motivo_fuera_lineamientos": null,
+      "estandarizable": false,
+      "fuentes": {
+        "info_solicitante": "Hidrocarburos del Magdalena S.A. (NIT 901789012-6) solicita nuevo negocio en Responsabilidad Ambiental a través de Marsh Colombia. Recepción: 2026-09-25.",
+        "info_documentos": [
+          "Formulario de solicitud: actividad económica y límites declarados por el cliente.",
+          "Proforma previa localizada en el repositorio de proformas vigentes."
+        ],
+        "info_historica": [
+          "Folio relacionado detectado por NIT y ramo: FOL-2026-00007."
+        ],
+        "fuentes_externas": [
+          "Sin información adicional disponible en fuentes externas consultadas."
+        ],
+        "resultado_listas": "Sin coincidencias en listas restrictivas consultadas.",
+        "reglas_suscripcion": [
+          "Límite de capacidad vigente para Responsabilidad Ambiental: consultar matriz de suscripción.",
+          "Toda recomendación requiere aprobación del suscriptor asignado."
+        ]
+      },
+      "categoria": 5,
+      "confianza": 0.7,
+      "hallazgos": [
+        "Posible duplicado del folio FOL-2026-00007 (similitud 93% por NIT, ramo y vigencia).",
+        "Riesgo elegible pero no cubierto por una plantilla estándar vigente."
+      ],
+      "recomendacion": "Estructurar informe de suscripción con sugerencias para decisión manual.",
+      "decision_final": "Se solicitó información adicional antes de decidir.",
+      "feedback": "categoria_modificada",
+      "estado": "decision_tomada",
+      "created_at": "2026-09-25T00:00:00",
+      "updated_at": "2026-09-26T14:00:00"
+    },
+    {
+      "id": 19,
+      "folio_number": "FOL-2026-00019",
+      "suscriptor_id": 3,
+      "suscriptor_nombre": "Laura Fernanda Ruiz",
+      "cliente": "AgroVerde del Cauca Ltda.",
+      "nit": "900234567-1",
+      "intermediario": "Aon Colombia",
+      "ramo": "Responsabilidad Ambiental",
+      "tipo_negocio": "Nuevo negocio",
+      "fecha_recepcion": "2026-09-23",
+      "fecha_maxima": "2026-09-30",
+      "descripcion": "Solicitud de nuevo negocio para AgroVerde del Cauca Ltda. en Responsabilidad Ambiental. Incluye descripción de operaciones y documentación de soporte.",
+      "adjuntos": [
+        {
+          "nombre": "Póliza anterior.pdf",
+          "tipo": "PDF",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Plano de instalaciones.jpg",
+          "tipo": "Imagen",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Memoria técnica.docx",
+          "tipo": "Word",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Carta de intermediario.msg",
+          "tipo": "MSG",
+          "procesado": true,
+          "nota": null
+        }
+      ],
+      "informacion_minima_completa": true,
+      "faltantes": [],
+      "duplicado_de": "FOL-2026-00016",
+      "duplicado_score": 0.84,
+      "fuera_lineamientos": false,
+      "motivo_fuera_lineamientos": null,
+      "estandarizable": true,
+      "fuentes": {
+        "info_solicitante": "AgroVerde del Cauca Ltda. (NIT 900234567-1) solicita nuevo negocio en Responsabilidad Ambiental a través de Aon Colombia. Recepción: 2026-09-23.",
+        "info_documentos": [
+          "Formulario de solicitud: actividad económica y límites declarados por el cliente.",
+          "Proforma previa localizada en el repositorio de proformas vigentes."
+        ],
+        "info_historica": [
+          "Folio relacionado detectado por NIT y ramo: FOL-2026-00016."
+        ],
+        "fuentes_externas": [
+          "Sin hallazgos relevantes en fuentes públicas (verificación manual pendiente)."
+        ],
+        "resultado_listas": "Sin coincidencias en listas restrictivas consultadas.",
+        "reglas_suscripcion": [
+          "Límite de capacidad vigente para Responsabilidad Ambiental: consultar matriz de suscripción.",
+          "Toda recomendación requiere aprobación del suscriptor asignado."
+        ]
+      },
+      "categoria": 4,
+      "confianza": 0.85,
+      "hallazgos": [
+        "Posible duplicado del folio FOL-2026-00016 (similitud 84% por NIT, ramo y vigencia).",
+        "Riesgo dentro de apetito y cubierto por proforma/plantilla estándar vigente."
+      ],
+      "recomendacion": "Generar borrador de cotización preliminar estándar para revisión del suscriptor.",
+      "decision_final": "Aprobado conforme a la recomendación del Copilot.",
+      "feedback": "correcta",
+      "estado": "decision_tomada",
+      "created_at": "2026-09-23T00:00:00",
+      "updated_at": "2026-09-24T18:00:00"
+    },
+    {
+      "id": 20,
+      "folio_number": "FOL-2026-00020",
+      "suscriptor_id": 4,
+      "suscriptor_nombre": "Esteban Castaño Valencia",
+      "cliente": "Residuos y Reciclaje S.A.S.",
+      "nit": "901890123-7",
+      "intermediario": "Aon Colombia",
+      "ramo": "Responsabilidad Ambiental",
+      "tipo_negocio": "Renovación",
+      "fecha_recepcion": "2026-09-05",
+      "fecha_maxima": "2026-09-15",
+      "descripcion": "Favor cotizar, queda pendiente el resto de información.",
+      "adjuntos": [
+        {
+          "nombre": "Póliza anterior.pdf",
+          "tipo": "PDF",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Plano de instalaciones.jpg",
+          "tipo": "Imagen",
+          "procesado": false,
+          "nota": "Imagen escaneada de baja calidad: no procesable automáticamente."
+        },
+        {
+          "nombre": "Proforma vigente.xlsx",
+          "tipo": "Excel",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Formulario de solicitud.pdf",
+          "tipo": "PDF",
+          "procesado": true,
+          "nota": null
+        }
+      ],
+      "informacion_minima_completa": false,
+      "faltantes": [
+        "descripción de operaciones y procesos"
+      ],
+      "duplicado_de": "FOL-2026-00003",
+      "duplicado_score": 0.78,
+      "fuera_lineamientos": false,
+      "motivo_fuera_lineamientos": null,
+      "estandarizable": false,
+      "fuentes": {
+        "info_solicitante": "Residuos y Reciclaje S.A.S. (NIT 901890123-7) solicita renovación en Responsabilidad Ambiental a través de Aon Colombia. Recepción: 2026-09-05.",
+        "info_documentos": [
+          "Formulario de solicitud: actividad económica y límites declarados por el cliente.",
+          "Proforma previa localizada en el repositorio de proformas vigentes."
+        ],
+        "info_historica": [
+          "Folio relacionado detectado por NIT y ramo: FOL-2026-00003."
+        ],
+        "fuentes_externas": [
+          "Mención en prensa local sobre un hallazgo menor; requiere verificación de fuente primaria antes de usarse."
+        ],
+        "resultado_listas": "Sin coincidencias en listas restrictivas consultadas.",
+        "reglas_suscripcion": [
+          "Límite de capacidad vigente para Responsabilidad Ambiental: consultar matriz de suscripción.",
+          "Toda recomendación requiere aprobación del suscriptor asignado."
+        ]
+      },
+      "categoria": 1,
+      "confianza": 0.6,
+      "hallazgos": [
+        "Posible duplicado del folio FOL-2026-00003 (similitud 78% por NIT, ramo y vigencia).",
+        "Adjuntos no procesables marcados explícitamente (no se asume su contenido): Plano de instalaciones.jpg",
+        "Información mínima incompleta: descripción de operaciones y procesos"
+      ],
+      "recomendacion": "Solicitar al intermediario la información faltante antes de continuar el análisis.",
+      "decision_final": "Se solicitó información adicional antes de decidir.",
+      "feedback": "correcta",
+      "estado": "decision_tomada",
+      "created_at": "2026-09-05T00:00:00",
+      "updated_at": "2026-09-05T21:00:00"
+    },
+    {
+      "id": 21,
+      "folio_number": "FOL-2026-00021",
+      "suscriptor_id": 1,
+      "suscriptor_nombre": "Mariana Pérez Londoño",
+      "cliente": "Ingeniería Ambiental Ltda.",
+      "nit": "900678901-5",
+      "intermediario": "Aon Colombia",
+      "ramo": "Responsabilidad Civil General",
+      "tipo_negocio": "Endoso",
+      "fecha_recepcion": "2026-09-06",
+      "fecha_maxima": "2026-09-18",
+      "descripcion": "Favor cotizar, queda pendiente el resto de información.",
+      "adjuntos": [
+        {
+          "nombre": "Proforma vigente.xlsx",
+          "tipo": "Excel",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Formulario de solicitud.pdf",
+          "tipo": "PDF",
+          "procesado": true,
+          "nota": null
+        }
+      ],
+      "informacion_minima_completa": false,
+      "faltantes": [
+        "actividad económica detallada",
+        "descripción de operaciones y procesos"
+      ],
+      "duplicado_de": null,
+      "duplicado_score": null,
+      "fuera_lineamientos": false,
+      "motivo_fuera_lineamientos": null,
+      "estandarizable": false,
+      "fuentes": {
+        "info_solicitante": "Ingeniería Ambiental Ltda. (NIT 900678901-5) solicita endoso en Responsabilidad Civil General a través de Aon Colombia. Recepción: 2026-09-06.",
+        "info_documentos": [
+          "Formulario de solicitud: actividad económica y límites declarados por el cliente.",
+          "Proforma previa localizada en el repositorio de proformas vigentes."
+        ],
+        "info_historica": [
+          "Póliza anterior vigente en el periodo previo, sin siniestros reportados."
+        ],
+        "fuentes_externas": [
+          "Mención en prensa local sobre un hallazgo menor; requiere verificación de fuente primaria antes de usarse."
+        ],
+        "resultado_listas": "Sin coincidencias en listas restrictivas consultadas.",
+        "reglas_suscripcion": [
+          "Límite de capacidad vigente para Responsabilidad Civil General: consultar matriz de suscripción.",
+          "Toda recomendación requiere aprobación del suscriptor asignado."
+        ]
+      },
+      "categoria": null,
+      "confianza": null,
+      "hallazgos": [],
+      "recomendacion": null,
+      "decision_final": null,
+      "feedback": null,
+      "estado": "nuevo",
+      "created_at": "2026-09-06T00:00:00",
+      "updated_at": "2026-09-06T00:00:00"
+    },
+    {
+      "id": 22,
+      "folio_number": "FOL-2026-00022",
+      "suscriptor_id": 2,
+      "suscriptor_nombre": "Carlos Andrés Gómez",
+      "cliente": "Energía Renovable del Caribe S.A.S.",
+      "nit": "900901234-8",
+      "intermediario": "Proteger Corredores de Seguros",
+      "ramo": "Responsabilidad de Producto",
+      "tipo_negocio": "Endoso",
+      "fecha_recepcion": "2026-09-07",
+      "fecha_maxima": "2026-09-20",
+      "descripcion": "Solicitud de endoso para Energía Renovable del Caribe S.A.S. en Responsabilidad de Producto. Incluye descripción de operaciones y documentación de soporte.",
+      "adjuntos": [
+        {
+          "nombre": "Proforma vigente.xlsx",
+          "tipo": "Excel",
+          "procesado": false,
+          "nota": "Imagen escaneada de baja calidad: no procesable automáticamente."
+        },
+        {
+          "nombre": "Plano de instalaciones.jpg",
+          "tipo": "Imagen",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Carta de intermediario.msg",
+          "tipo": "MSG",
+          "procesado": true,
+          "nota": null
+        }
+      ],
+      "informacion_minima_completa": true,
+      "faltantes": [],
+      "duplicado_de": null,
+      "duplicado_score": null,
+      "fuera_lineamientos": false,
+      "motivo_fuera_lineamientos": null,
+      "estandarizable": false,
+      "fuentes": {
+        "info_solicitante": "Energía Renovable del Caribe S.A.S. (NIT 900901234-8) solicita endoso en Responsabilidad de Producto a través de Proteger Corredores de Seguros. Recepción: 2026-09-07.",
+        "info_documentos": [
+          "Formulario de solicitud: actividad económica y límites declarados por el cliente.",
+          "Proforma previa localizada en el repositorio de proformas vigentes."
+        ],
+        "info_historica": [
+          "Registro de un siniestro menor en el periodo anterior, ya cerrado."
+        ],
+        "fuentes_externas": [
+          "Mención en prensa local sobre un hallazgo menor; requiere verificación de fuente primaria antes de usarse."
+        ],
+        "resultado_listas": "Sin coincidencias en listas restrictivas consultadas.",
+        "reglas_suscripcion": [
+          "Límite de capacidad vigente para Responsabilidad de Producto: consultar matriz de suscripción.",
+          "Toda recomendación requiere aprobación del suscriptor asignado."
+        ]
+      },
+      "categoria": 2,
+      "confianza": 0.65,
+      "hallazgos": [
+        "Adjuntos no procesables marcados explícitamente (no se asume su contenido): Proforma vigente.xlsx",
+        "Se detectaron inconsistencias entre el formulario y los documentos adjuntos."
+      ],
+      "recomendacion": "Enviar preguntas de aclaración al intermediario/cliente antes de clasificar el riesgo.",
+      "decision_final": "Decisión ajustada por el suscriptor tras revisión manual.",
+      "feedback": "correcta",
+      "estado": "decision_tomada",
+      "created_at": "2026-09-07T00:00:00",
+      "updated_at": "2026-09-08T04:00:00"
+    },
+    {
+      "id": 23,
+      "folio_number": "FOL-2026-00023",
+      "suscriptor_id": 3,
+      "suscriptor_nombre": "Laura Fernanda Ruiz",
+      "cliente": "Logística Integral de Colombia S.A.S.",
+      "nit": "900789012-6",
+      "intermediario": "Proteger Corredores de Seguros",
+      "ramo": "Responsabilidad Ambiental",
+      "tipo_negocio": "Nuevo negocio",
+      "fecha_recepcion": "2026-09-20",
+      "fecha_maxima": "2026-09-25",
+      "descripcion": "Solicitud de nuevo negocio para Logística Integral de Colombia S.A.S. en Responsabilidad Ambiental. Incluye descripción de operaciones y documentación de soporte.",
+      "adjuntos": [
+        {
+          "nombre": "Memoria técnica.docx",
+          "tipo": "Word",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Carta de intermediario.msg",
+          "tipo": "MSG",
+          "procesado": true,
+          "nota": null
+        }
+      ],
+      "informacion_minima_completa": true,
+      "faltantes": [],
+      "duplicado_de": null,
+      "duplicado_score": null,
+      "fuera_lineamientos": true,
+      "motivo_fuera_lineamientos": "límite de responsabilidad solicitado supera la capacidad autorizada para el ramo",
+      "estandarizable": false,
+      "fuentes": {
+        "info_solicitante": "Logística Integral de Colombia S.A.S. (NIT 900789012-6) solicita nuevo negocio en Responsabilidad Ambiental a través de Proteger Corredores de Seguros. Recepción: 2026-09-20.",
+        "info_documentos": [
+          "Formulario de solicitud: actividad económica y límites declarados por el cliente.",
+          "No se encontró proforma previa asociada a esta actividad; requiere cotización manual."
+        ],
+        "info_historica": [
+          "Registro de un siniestro menor en el periodo anterior, ya cerrado."
+        ],
+        "fuentes_externas": [
+          "Sin hallazgos relevantes en fuentes públicas (verificación manual pendiente)."
+        ],
+        "resultado_listas": "Sin coincidencias en listas restrictivas consultadas.",
+        "reglas_suscripcion": [
+          "Límite de capacidad vigente para Responsabilidad Ambiental: consultar matriz de suscripción.",
+          "Toda recomendación requiere aprobación del suscriptor asignado."
+        ]
+      },
+      "categoria": 3,
+      "confianza": 0.8,
+      "hallazgos": [
+        "Riesgo fuera de lineamientos de suscripción: límite de responsabilidad solicitado supera la capacidad autorizada para el ramo"
+      ],
+      "recomendacion": "Preparar declinación sustentada para aprobación del suscriptor.",
+      "decision_final": null,
+      "feedback": null,
+      "estado": "analizado",
+      "created_at": "2026-09-20T00:00:00",
+      "updated_at": "2026-09-20T11:00:00"
+    },
+    {
+      "id": 24,
+      "folio_number": "FOL-2026-00024",
+      "suscriptor_id": 4,
+      "suscriptor_nombre": "Esteban Castaño Valencia",
+      "cliente": "Farmacéutica Andina S.A.S.",
+      "nit": "901456789-3",
+      "intermediario": "Marsh Colombia",
+      "ramo": "Responsabilidad de Producto",
+      "tipo_negocio": "Renovación",
+      "fecha_recepcion": "2026-09-20",
+      "fecha_maxima": "2026-10-05",
+      "descripcion": "Solicitud de renovación para Farmacéutica Andina S.A.S. en Responsabilidad de Producto. Incluye descripción de operaciones y documentación de soporte.",
+      "adjuntos": [
+        {
+          "nombre": "Plano de instalaciones.jpg",
+          "tipo": "Imagen",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Memoria técnica.docx",
+          "tipo": "Word",
+          "procesado": true,
+          "nota": null
+        }
+      ],
+      "informacion_minima_completa": true,
+      "faltantes": [],
+      "duplicado_de": "FOL-2026-00006",
+      "duplicado_score": 0.9,
+      "fuera_lineamientos": false,
+      "motivo_fuera_lineamientos": null,
+      "estandarizable": false,
+      "fuentes": {
+        "info_solicitante": "Farmacéutica Andina S.A.S. (NIT 901456789-3) solicita renovación en Responsabilidad de Producto a través de Marsh Colombia. Recepción: 2026-09-20.",
+        "info_documentos": [
+          "Formulario de solicitud: actividad económica y límites declarados por el cliente.",
+          "No se encontró proforma previa asociada a esta actividad; requiere cotización manual."
+        ],
+        "info_historica": [
+          "Folio relacionado detectado por NIT y ramo: FOL-2026-00006."
+        ],
+        "fuentes_externas": [
+          "Mención en prensa local sobre un hallazgo menor; requiere verificación de fuente primaria antes de usarse."
+        ],
+        "resultado_listas": "Sin coincidencias en listas restrictivas consultadas.",
+        "reglas_suscripcion": [
+          "Límite de capacidad vigente para Responsabilidad de Producto: consultar matriz de suscripción.",
+          "Toda recomendación requiere aprobación del suscriptor asignado."
+        ]
+      },
+      "categoria": null,
+      "confianza": null,
+      "hallazgos": [],
+      "recomendacion": null,
+      "decision_final": null,
+      "feedback": null,
+      "estado": "nuevo",
+      "created_at": "2026-09-20T00:00:00",
+      "updated_at": "2026-09-20T00:00:00"
+    },
+    {
+      "id": 25,
+      "folio_number": "FOL-2026-00025",
+      "suscriptor_id": 1,
+      "suscriptor_nombre": "Mariana Pérez Londoño",
+      "cliente": "Textiles Antioqueños S.A.",
+      "nit": "901012345-9",
+      "intermediario": "Correduría Andina de Seguros",
+      "ramo": "Responsabilidad de Producto",
+      "tipo_negocio": "Renovación",
+      "fecha_recepcion": "2026-09-19",
+      "fecha_maxima": "2026-10-01",
+      "descripcion": "Solicitud de renovación para Textiles Antioqueños S.A. en Responsabilidad de Producto. Incluye descripción de operaciones y documentación de soporte.",
+      "adjuntos": [
+        {
+          "nombre": "Proforma vigente.xlsx",
+          "tipo": "Excel",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Formulario de solicitud.pdf",
+          "tipo": "PDF",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Carta de intermediario.msg",
+          "tipo": "MSG",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Póliza anterior.pdf",
+          "tipo": "PDF",
+          "procesado": true,
+          "nota": null
+        }
+      ],
+      "informacion_minima_completa": true,
+      "faltantes": [],
+      "duplicado_de": "FOL-2026-00009",
+      "duplicado_score": 0.92,
+      "fuera_lineamientos": false,
+      "motivo_fuera_lineamientos": null,
+      "estandarizable": true,
+      "fuentes": {
+        "info_solicitante": "Textiles Antioqueños S.A. (NIT 901012345-9) solicita renovación en Responsabilidad de Producto a través de Correduría Andina de Seguros. Recepción: 2026-09-19.",
+        "info_documentos": [
+          "Formulario de solicitud: actividad económica y límites declarados por el cliente.",
+          "No se encontró proforma previa asociada a esta actividad; requiere cotización manual."
+        ],
+        "info_historica": [
+          "Folio relacionado detectado por NIT y ramo: FOL-2026-00009."
+        ],
+        "fuentes_externas": [
+          "Sin hallazgos relevantes en fuentes públicas (verificación manual pendiente)."
+        ],
+        "resultado_listas": "Sin coincidencias en listas restrictivas consultadas.",
+        "reglas_suscripcion": [
+          "Límite de capacidad vigente para Responsabilidad de Producto: consultar matriz de suscripción.",
+          "Toda recomendación requiere aprobación del suscriptor asignado."
+        ]
+      },
+      "categoria": 4,
+      "confianza": 0.85,
+      "hallazgos": [
+        "Posible duplicado del folio FOL-2026-00009 (similitud 92% por NIT, ramo y vigencia).",
+        "Riesgo dentro de apetito y cubierto por proforma/plantilla estándar vigente."
+      ],
+      "recomendacion": "Generar borrador de cotización preliminar estándar para revisión del suscriptor.",
+      "decision_final": "Se solicitó información adicional antes de decidir.",
+      "feedback": "correcta",
+      "estado": "decision_tomada",
+      "created_at": "2026-09-19T00:00:00",
+      "updated_at": "2026-09-20T06:00:00"
+    },
+    {
+      "id": 26,
+      "folio_number": "FOL-2026-00026",
+      "suscriptor_id": 2,
+      "suscriptor_nombre": "Carlos Andrés Gómez",
+      "cliente": "Minerales del Oriente S.A.",
+      "nit": "900567890-4",
+      "intermediario": "Marsh Colombia",
+      "ramo": "Responsabilidad Civil General",
+      "tipo_negocio": "Nuevo negocio",
+      "fecha_recepcion": "2026-09-18",
+      "fecha_maxima": "2026-10-02",
+      "descripcion": "Solicitud de nuevo negocio para Minerales del Oriente S.A. en Responsabilidad Civil General. Incluye descripción de operaciones y documentación de soporte.",
+      "adjuntos": [
+        {
+          "nombre": "Memoria técnica.docx",
+          "tipo": "Word",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Plano de instalaciones.jpg",
+          "tipo": "Imagen",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Proforma vigente.xlsx",
+          "tipo": "Excel",
+          "procesado": false,
+          "nota": "Imagen escaneada de baja calidad: no procesable automáticamente."
+        }
+      ],
+      "informacion_minima_completa": true,
+      "faltantes": [],
+      "duplicado_de": null,
+      "duplicado_score": null,
+      "fuera_lineamientos": false,
+      "motivo_fuera_lineamientos": null,
+      "estandarizable": true,
+      "fuentes": {
+        "info_solicitante": "Minerales del Oriente S.A. (NIT 900567890-4) solicita nuevo negocio en Responsabilidad Civil General a través de Marsh Colombia. Recepción: 2026-09-18.",
+        "info_documentos": [
+          "Formulario de solicitud: actividad económica y límites declarados por el cliente.",
+          "No se encontró proforma previa asociada a esta actividad; requiere cotización manual."
+        ],
+        "info_historica": [
+          "Póliza anterior vigente en el periodo previo, sin siniestros reportados."
+        ],
+        "fuentes_externas": [
+          "Mención en prensa local sobre un hallazgo menor; requiere verificación de fuente primaria antes de usarse."
+        ],
+        "resultado_listas": "Sin coincidencias en listas restrictivas consultadas.",
+        "reglas_suscripcion": [
+          "Límite de capacidad vigente para Responsabilidad Civil General: consultar matriz de suscripción.",
+          "Toda recomendación requiere aprobación del suscriptor asignado."
+        ]
+      },
+      "categoria": 4,
+      "confianza": 0.85,
+      "hallazgos": [
+        "Adjuntos no procesables marcados explícitamente (no se asume su contenido): Proforma vigente.xlsx",
+        "Riesgo dentro de apetito y cubierto por proforma/plantilla estándar vigente."
+      ],
+      "recomendacion": "Generar borrador de cotización preliminar estándar para revisión del suscriptor.",
+      "decision_final": "Aprobado conforme a la recomendación del Copilot.",
+      "feedback": "categoria_modificada",
+      "estado": "decision_tomada",
+      "created_at": "2026-09-18T00:00:00",
+      "updated_at": "2026-09-18T10:00:00"
+    },
+    {
+      "id": 27,
+      "folio_number": "FOL-2026-00027",
+      "suscriptor_id": 3,
+      "suscriptor_nombre": "Laura Fernanda Ruiz",
+      "cliente": "Ingeniería Ambiental Ltda.",
+      "nit": "900678901-5",
+      "intermediario": "Correduría Andina de Seguros",
+      "ramo": "D&O",
+      "tipo_negocio": "Precotizado",
+      "fecha_recepcion": "2026-10-02",
+      "fecha_maxima": "2026-10-15",
+      "descripcion": "Favor cotizar, queda pendiente el resto de información.",
+      "adjuntos": [
+        {
+          "nombre": "Memoria técnica.docx",
+          "tipo": "Word",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Plano de instalaciones.jpg",
+          "tipo": "Imagen",
+          "procesado": false,
+          "nota": "Imagen escaneada de baja calidad: no procesable automáticamente."
+        },
+        {
+          "nombre": "Carta de intermediario.msg",
+          "tipo": "MSG",
+          "procesado": true,
+          "nota": null
+        }
+      ],
+      "informacion_minima_completa": false,
+      "faltantes": [
+        "límite de responsabilidad requerido"
+      ],
+      "duplicado_de": null,
+      "duplicado_score": null,
+      "fuera_lineamientos": false,
+      "motivo_fuera_lineamientos": null,
+      "estandarizable": false,
+      "fuentes": {
+        "info_solicitante": "Ingeniería Ambiental Ltda. (NIT 900678901-5) solicita precotizado en D&O a través de Correduría Andina de Seguros. Recepción: 2026-10-02.",
+        "info_documentos": [
+          "Formulario de solicitud: actividad económica y límites declarados por el cliente.",
+          "No se encontró proforma previa asociada a esta actividad; requiere cotización manual."
+        ],
+        "info_historica": [
+          "Registro de un siniestro menor en el periodo anterior, ya cerrado."
+        ],
+        "fuentes_externas": [
+          "Mención en prensa local sobre un hallazgo menor; requiere verificación de fuente primaria antes de usarse."
+        ],
+        "resultado_listas": "Sin coincidencias en listas restrictivas consultadas.",
+        "reglas_suscripcion": [
+          "Límite de capacidad vigente para D&O: consultar matriz de suscripción.",
+          "Toda recomendación requiere aprobación del suscriptor asignado."
+        ]
+      },
+      "categoria": 1,
+      "confianza": 0.6,
+      "hallazgos": [
+        "Adjuntos no procesables marcados explícitamente (no se asume su contenido): Plano de instalaciones.jpg",
+        "Información mínima incompleta: límite de responsabilidad requerido"
+      ],
+      "recomendacion": "Solicitar al intermediario la información faltante antes de continuar el análisis.",
+      "decision_final": "Se solicitó información adicional antes de decidir.",
+      "feedback": "parcial",
+      "estado": "decision_tomada",
+      "created_at": "2026-10-02T00:00:00",
+      "updated_at": "2026-10-03T01:00:00"
+    },
+    {
+      "id": 28,
+      "folio_number": "FOL-2026-00028",
+      "suscriptor_id": 4,
+      "suscriptor_nombre": "Esteban Castaño Valencia",
+      "cliente": "Energía Renovable del Caribe S.A.S.",
+      "nit": "900901234-8",
+      "intermediario": "Proteger Corredores de Seguros",
+      "ramo": "Responsabilidad de Producto",
+      "tipo_negocio": "Endoso",
+      "fecha_recepcion": "2026-09-26",
+      "fecha_maxima": "2026-10-05",
+      "descripcion": "Solicitud de endoso para Energía Renovable del Caribe S.A.S. en Responsabilidad de Producto. Incluye descripción de operaciones y documentación de soporte.",
+      "adjuntos": [
+        {
+          "nombre": "Carta de intermediario.msg",
+          "tipo": "MSG",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Plano de instalaciones.jpg",
+          "tipo": "Imagen",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Formulario de solicitud.pdf",
+          "tipo": "PDF",
+          "procesado": true,
+          "nota": null
+        }
+      ],
+      "informacion_minima_completa": true,
+      "faltantes": [],
+      "duplicado_de": null,
+      "duplicado_score": null,
+      "fuera_lineamientos": true,
+      "motivo_fuera_lineamientos": "operación en zona de alto riesgo ambiental sin estudio de impacto vigente",
+      "estandarizable": false,
+      "fuentes": {
+        "info_solicitante": "Energía Renovable del Caribe S.A.S. (NIT 900901234-8) solicita endoso en Responsabilidad de Producto a través de Proteger Corredores de Seguros. Recepción: 2026-09-26.",
+        "info_documentos": [
+          "Formulario de solicitud: actividad económica y límites declarados por el cliente.",
+          "Proforma previa localizada en el repositorio de proformas vigentes."
+        ],
+        "info_historica": [
+          "Sin pólizas previas registradas en el histórico consultado."
+        ],
+        "fuentes_externas": [
+          "Sin hallazgos relevantes en fuentes públicas (verificación manual pendiente)."
+        ],
+        "resultado_listas": "Sin coincidencias en listas restrictivas consultadas.",
+        "reglas_suscripcion": [
+          "Límite de capacidad vigente para Responsabilidad de Producto: consultar matriz de suscripción.",
+          "Toda recomendación requiere aprobación del suscriptor asignado."
+        ]
+      },
+      "categoria": null,
+      "confianza": null,
+      "hallazgos": [],
+      "recomendacion": null,
+      "decision_final": null,
+      "feedback": null,
+      "estado": "nuevo",
+      "created_at": "2026-09-26T00:00:00",
+      "updated_at": "2026-09-26T00:00:00"
+    },
+    {
+      "id": 29,
+      "folio_number": "FOL-2026-00029",
+      "suscriptor_id": 1,
+      "suscriptor_nombre": "Mariana Pérez Londoño",
+      "cliente": "Logística Integral de Colombia S.A.S.",
+      "nit": "900789012-6",
+      "intermediario": "Correduría Andina de Seguros",
+      "ramo": "Responsabilidad de Producto",
+      "tipo_negocio": "Endoso",
+      "fecha_recepcion": "2026-10-02",
+      "fecha_maxima": "2026-10-10",
+      "descripcion": "Solicitud de endoso para Logística Integral de Colombia S.A.S. en Responsabilidad de Producto. Incluye descripción de operaciones y documentación de soporte.",
+      "adjuntos": [
+        {
+          "nombre": "Memoria técnica.docx",
+          "tipo": "Word",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Formulario de solicitud.pdf",
+          "tipo": "PDF",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Póliza anterior.pdf",
+          "tipo": "PDF",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Proforma vigente.xlsx",
+          "tipo": "Excel",
+          "procesado": true,
+          "nota": null
+        }
+      ],
+      "informacion_minima_completa": true,
+      "faltantes": [],
+      "duplicado_de": "FOL-2026-00023",
+      "duplicado_score": 0.84,
+      "fuera_lineamientos": false,
+      "motivo_fuera_lineamientos": null,
+      "estandarizable": true,
+      "fuentes": {
+        "info_solicitante": "Logística Integral de Colombia S.A.S. (NIT 900789012-6) solicita endoso en Responsabilidad de Producto a través de Correduría Andina de Seguros. Recepción: 2026-10-02.",
+        "info_documentos": [
+          "Formulario de solicitud: actividad económica y límites declarados por el cliente.",
+          "Proforma previa localizada en el repositorio de proformas vigentes."
+        ],
+        "info_historica": [
+          "Folio relacionado detectado por NIT y ramo: FOL-2026-00023."
+        ],
+        "fuentes_externas": [
+          "Mención en prensa local sobre un hallazgo menor; requiere verificación de fuente primaria antes de usarse."
+        ],
+        "resultado_listas": "Sin coincidencias en listas restrictivas consultadas.",
+        "reglas_suscripcion": [
+          "Límite de capacidad vigente para Responsabilidad de Producto: consultar matriz de suscripción.",
+          "Toda recomendación requiere aprobación del suscriptor asignado."
+        ]
+      },
+      "categoria": 4,
+      "confianza": 0.85,
+      "hallazgos": [
+        "Posible duplicado del folio FOL-2026-00023 (similitud 84% por NIT, ramo y vigencia).",
+        "Riesgo dentro de apetito y cubierto por proforma/plantilla estándar vigente."
+      ],
+      "recomendacion": "Generar borrador de cotización preliminar estándar para revisión del suscriptor.",
+      "decision_final": null,
+      "feedback": null,
+      "estado": "analizado",
+      "created_at": "2026-10-02T00:00:00",
+      "updated_at": "2026-10-03T06:00:00"
+    },
+    {
+      "id": 30,
+      "folio_number": "FOL-2026-00030",
+      "suscriptor_id": 2,
+      "suscriptor_nombre": "Carlos Andrés Gómez",
+      "cliente": "Farmacéutica Andina S.A.S.",
+      "nit": "901456789-3",
+      "intermediario": "Seguros & Riesgos Ltda.",
+      "ramo": "D&O",
+      "tipo_negocio": "Precotizado",
+      "fecha_recepcion": "2026-09-05",
+      "fecha_maxima": "2026-09-13",
+      "descripcion": "Solicitud de precotizado para Farmacéutica Andina S.A.S. en D&O. Incluye descripción de operaciones y documentación de soporte.",
+      "adjuntos": [
+        {
+          "nombre": "Póliza anterior.pdf",
+          "tipo": "PDF",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Carta de intermediario.msg",
+          "tipo": "MSG",
+          "procesado": true,
+          "nota": null
+        }
+      ],
+      "informacion_minima_completa": true,
+      "faltantes": [],
+      "duplicado_de": null,
+      "duplicado_score": null,
+      "fuera_lineamientos": true,
+      "motivo_fuera_lineamientos": "operación en zona de alto riesgo ambiental sin estudio de impacto vigente",
+      "estandarizable": false,
+      "fuentes": {
+        "info_solicitante": "Farmacéutica Andina S.A.S. (NIT 901456789-3) solicita precotizado en D&O a través de Seguros & Riesgos Ltda.. Recepción: 2026-09-05.",
+        "info_documentos": [
+          "Formulario de solicitud: actividad económica y límites declarados por el cliente.",
+          "No se encontró proforma previa asociada a esta actividad; requiere cotización manual."
+        ],
+        "info_historica": [
+          "Registro de un siniestro menor en el periodo anterior, ya cerrado."
+        ],
+        "fuentes_externas": [
+          "Sin hallazgos relevantes en fuentes públicas (verificación manual pendiente)."
+        ],
+        "resultado_listas": "Sin coincidencias en listas restrictivas consultadas.",
+        "reglas_suscripcion": [
+          "Límite de capacidad vigente para D&O: consultar matriz de suscripción.",
+          "Toda recomendación requiere aprobación del suscriptor asignado."
+        ]
+      },
+      "categoria": 3,
+      "confianza": 0.8,
+      "hallazgos": [
+        "Riesgo fuera de lineamientos de suscripción: operación en zona de alto riesgo ambiental sin estudio de impacto vigente"
+      ],
+      "recomendacion": "Preparar declinación sustentada para aprobación del suscriptor.",
+      "decision_final": "Decisión ajustada por el suscriptor tras revisión manual.",
+      "feedback": "correcta",
+      "estado": "decision_tomada",
+      "created_at": "2026-09-05T00:00:00",
+      "updated_at": "2026-09-06T10:00:00"
+    },
+    {
+      "id": 31,
+      "folio_number": "FOL-2026-00031",
+      "suscriptor_id": 3,
+      "suscriptor_nombre": "Laura Fernanda Ruiz",
+      "cliente": "Constructora Andina S.A.S.",
+      "nit": "900123456-7",
+      "intermediario": "Marsh Colombia",
+      "ramo": "Responsabilidad Civil General",
+      "tipo_negocio": "Endoso",
+      "fecha_recepcion": "2026-09-06",
+      "fecha_maxima": "2026-09-18",
+      "descripcion": "Favor cotizar, queda pendiente el resto de información.",
+      "adjuntos": [
+        {
+          "nombre": "Carta de intermediario.msg",
+          "tipo": "MSG",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Póliza anterior.pdf",
+          "tipo": "PDF",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Memoria técnica.docx",
+          "tipo": "Word",
+          "procesado": true,
+          "nota": null
+        }
+      ],
+      "informacion_minima_completa": false,
+      "faltantes": [
+        "límite de responsabilidad requerido",
+        "actividad económica detallada"
+      ],
+      "duplicado_de": null,
+      "duplicado_score": null,
+      "fuera_lineamientos": false,
+      "motivo_fuera_lineamientos": null,
+      "estandarizable": false,
+      "fuentes": {
+        "info_solicitante": "Constructora Andina S.A.S. (NIT 900123456-7) solicita endoso en Responsabilidad Civil General a través de Marsh Colombia. Recepción: 2026-09-06.",
+        "info_documentos": [
+          "Formulario de solicitud: actividad económica y límites declarados por el cliente.",
+          "No se encontró proforma previa asociada a esta actividad; requiere cotización manual."
+        ],
+        "info_historica": [
+          "Póliza anterior vigente en el periodo previo, sin siniestros reportados."
+        ],
+        "fuentes_externas": [
+          "Sin hallazgos relevantes en fuentes públicas (verificación manual pendiente)."
+        ],
+        "resultado_listas": "Sin coincidencias en listas restrictivas consultadas.",
+        "reglas_suscripcion": [
+          "Límite de capacidad vigente para Responsabilidad Civil General: consultar matriz de suscripción.",
+          "Toda recomendación requiere aprobación del suscriptor asignado."
+        ]
+      },
+      "categoria": 1,
+      "confianza": 0.6,
+      "hallazgos": [
+        "Información mínima incompleta: límite de responsabilidad requerido, actividad económica detallada"
+      ],
+      "recomendacion": "Solicitar al intermediario la información faltante antes de continuar el análisis.",
+      "decision_final": "Se solicitó información adicional antes de decidir.",
+      "feedback": "correcta",
+      "estado": "decision_tomada",
+      "created_at": "2026-09-06T00:00:00",
+      "updated_at": "2026-09-06T06:00:00"
+    },
+    {
+      "id": 32,
+      "folio_number": "FOL-2026-00032",
+      "suscriptor_id": 4,
+      "suscriptor_nombre": "Esteban Castaño Valencia",
+      "cliente": "AgroVerde del Cauca Ltda.",
+      "nit": "900234567-1",
+      "intermediario": "Aon Colombia",
+      "ramo": "Responsabilidad Civil General",
+      "tipo_negocio": "Renovación",
+      "fecha_recepcion": "2026-09-14",
+      "fecha_maxima": "2026-09-21",
+      "descripcion": "Favor cotizar, queda pendiente el resto de información.",
+      "adjuntos": [
+        {
+          "nombre": "Póliza anterior.pdf",
+          "tipo": "PDF",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Carta de intermediario.msg",
+          "tipo": "MSG",
+          "procesado": true,
+          "nota": null
+        }
+      ],
+      "informacion_minima_completa": false,
+      "faltantes": [
+        "descripción de operaciones y procesos",
+        "valor asegurado solicitado"
+      ],
+      "duplicado_de": null,
+      "duplicado_score": null,
+      "fuera_lineamientos": false,
+      "motivo_fuera_lineamientos": null,
+      "estandarizable": false,
+      "fuentes": {
+        "info_solicitante": "AgroVerde del Cauca Ltda. (NIT 900234567-1) solicita renovación en Responsabilidad Civil General a través de Aon Colombia. Recepción: 2026-09-14.",
+        "info_documentos": [
+          "Formulario de solicitud: actividad económica y límites declarados por el cliente.",
+          "No se encontró proforma previa asociada a esta actividad; requiere cotización manual."
+        ],
+        "info_historica": [
+          "Sin pólizas previas registradas en el histórico consultado."
+        ],
+        "fuentes_externas": [
+          "Sin información adicional disponible en fuentes externas consultadas."
+        ],
+        "resultado_listas": "Sin coincidencias en listas restrictivas consultadas.",
+        "reglas_suscripcion": [
+          "Límite de capacidad vigente para Responsabilidad Civil General: consultar matriz de suscripción.",
+          "Toda recomendación requiere aprobación del suscriptor asignado."
+        ]
+      },
+      "categoria": 1,
+      "confianza": 0.6,
+      "hallazgos": [
+        "Información mínima incompleta: descripción de operaciones y procesos, valor asegurado solicitado"
+      ],
+      "recomendacion": "Solicitar al intermediario la información faltante antes de continuar el análisis.",
+      "decision_final": "Aprobado conforme a la recomendación del Copilot.",
+      "feedback": "parcial",
+      "estado": "decision_tomada",
+      "created_at": "2026-09-14T00:00:00",
+      "updated_at": "2026-09-14T09:00:00"
+    },
+    {
+      "id": 33,
+      "folio_number": "FOL-2026-00033",
+      "suscriptor_id": 1,
+      "suscriptor_nombre": "Mariana Pérez Londoño",
+      "cliente": "Constructora Andina S.A.S.",
+      "nit": "900123456-7",
+      "intermediario": "Correduría Andina de Seguros",
+      "ramo": "Responsabilidad de Producto",
+      "tipo_negocio": "Endoso",
+      "fecha_recepcion": "2026-09-11",
+      "fecha_maxima": "2026-09-19",
+      "descripcion": "Favor cotizar, queda pendiente el resto de información.",
+      "adjuntos": [
+        {
+          "nombre": "Memoria técnica.docx",
+          "tipo": "Word",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Plano de instalaciones.jpg",
+          "tipo": "Imagen",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Formulario de solicitud.pdf",
+          "tipo": "PDF",
+          "procesado": true,
+          "nota": null
+        }
+      ],
+      "informacion_minima_completa": false,
+      "faltantes": [
+        "descripción de operaciones y procesos",
+        "vigencia solicitada",
+        "valor asegurado solicitado"
+      ],
+      "duplicado_de": null,
+      "duplicado_score": null,
+      "fuera_lineamientos": false,
+      "motivo_fuera_lineamientos": null,
+      "estandarizable": false,
+      "fuentes": {
+        "info_solicitante": "Constructora Andina S.A.S. (NIT 900123456-7) solicita endoso en Responsabilidad de Producto a través de Correduría Andina de Seguros. Recepción: 2026-09-11.",
+        "info_documentos": [
+          "Formulario de solicitud: actividad económica y límites declarados por el cliente.",
+          "Proforma previa localizada en el repositorio de proformas vigentes."
+        ],
+        "info_historica": [
+          "Póliza anterior vigente en el periodo previo, sin siniestros reportados."
+        ],
+        "fuentes_externas": [
+          "Sin información adicional disponible en fuentes externas consultadas."
+        ],
+        "resultado_listas": "Sin coincidencias en listas restrictivas consultadas.",
+        "reglas_suscripcion": [
+          "Límite de capacidad vigente para Responsabilidad de Producto: consultar matriz de suscripción.",
+          "Toda recomendación requiere aprobación del suscriptor asignado."
+        ]
+      },
+      "categoria": 1,
+      "confianza": 0.6,
+      "hallazgos": [
+        "Información mínima incompleta: descripción de operaciones y procesos, vigencia solicitada, valor asegurado solicitado"
+      ],
+      "recomendacion": "Solicitar al intermediario la información faltante antes de continuar el análisis.",
+      "decision_final": null,
+      "feedback": null,
+      "estado": "analizado",
+      "created_at": "2026-09-11T00:00:00",
+      "updated_at": "2026-09-11T18:00:00"
+    },
+    {
+      "id": 34,
+      "folio_number": "FOL-2026-00034",
+      "suscriptor_id": 2,
+      "suscriptor_nombre": "Carlos Andrés Gómez",
+      "cliente": "Alimentos del Campo S.A.S.",
+      "nit": "901123456-0",
+      "intermediario": "Correduría Andina de Seguros",
+      "ramo": "Responsabilidad Ambiental",
+      "tipo_negocio": "Nuevo negocio",
+      "fecha_recepcion": "2026-09-22",
+      "fecha_maxima": "2026-10-07",
+      "descripcion": "Solicitud de nuevo negocio para Alimentos del Campo S.A.S. en Responsabilidad Ambiental. Incluye descripción de operaciones y documentación de soporte.",
+      "adjuntos": [
+        {
+          "nombre": "Póliza anterior.pdf",
+          "tipo": "PDF",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Proforma vigente.xlsx",
+          "tipo": "Excel",
+          "procesado": true,
+          "nota": null
+        }
+      ],
+      "informacion_minima_completa": true,
+      "faltantes": [],
+      "duplicado_de": "FOL-2026-00015",
+      "duplicado_score": 0.84,
+      "fuera_lineamientos": false,
+      "motivo_fuera_lineamientos": null,
+      "estandarizable": false,
+      "fuentes": {
+        "info_solicitante": "Alimentos del Campo S.A.S. (NIT 901123456-0) solicita nuevo negocio en Responsabilidad Ambiental a través de Correduría Andina de Seguros. Recepción: 2026-09-22.",
+        "info_documentos": [
+          "Formulario de solicitud: actividad económica y límites declarados por el cliente.",
+          "No se encontró proforma previa asociada a esta actividad; requiere cotización manual."
+        ],
+        "info_historica": [
+          "Folio relacionado detectado por NIT y ramo: FOL-2026-00015."
+        ],
+        "fuentes_externas": [
+          "Sin información adicional disponible en fuentes externas consultadas."
+        ],
+        "resultado_listas": "Sin coincidencias en listas restrictivas consultadas.",
+        "reglas_suscripcion": [
+          "Límite de capacidad vigente para Responsabilidad Ambiental: consultar matriz de suscripción.",
+          "Toda recomendación requiere aprobación del suscriptor asignado."
+        ]
+      },
+      "categoria": 5,
+      "confianza": 0.7,
+      "hallazgos": [
+        "Posible duplicado del folio FOL-2026-00015 (similitud 84% por NIT, ramo y vigencia).",
+        "Riesgo elegible pero no cubierto por una plantilla estándar vigente."
+      ],
+      "recomendacion": "Estructurar informe de suscripción con sugerencias para decisión manual.",
+      "decision_final": null,
+      "feedback": null,
+      "estado": "analizado",
+      "created_at": "2026-09-22T00:00:00",
+      "updated_at": "2026-09-22T17:00:00"
+    },
+    {
+      "id": 35,
+      "folio_number": "FOL-2026-00035",
+      "suscriptor_id": 3,
+      "suscriptor_nombre": "Laura Fernanda Ruiz",
+      "cliente": "Metalúrgica del Pacífico S.A.",
+      "nit": "901567890-4",
+      "intermediario": "Willis Towers Watson",
+      "ramo": "D&O",
+      "tipo_negocio": "Precotizado",
+      "fecha_recepcion": "2026-09-23",
+      "fecha_maxima": "2026-10-01",
+      "descripcion": "Solicitud de precotizado para Metalúrgica del Pacífico S.A. en D&O. Incluye descripción de operaciones y documentación de soporte.",
+      "adjuntos": [
+        {
+          "nombre": "Proforma vigente.xlsx",
+          "tipo": "Excel",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Póliza anterior.pdf",
+          "tipo": "PDF",
+          "procesado": false,
+          "nota": "Imagen escaneada de baja calidad: no procesable automáticamente."
+        },
+        {
+          "nombre": "Plano de instalaciones.jpg",
+          "tipo": "Imagen",
+          "procesado": true,
+          "nota": null
+        }
+      ],
+      "informacion_minima_completa": true,
+      "faltantes": [],
+      "duplicado_de": null,
+      "duplicado_score": null,
+      "fuera_lineamientos": false,
+      "motivo_fuera_lineamientos": null,
+      "estandarizable": true,
+      "fuentes": {
+        "info_solicitante": "Metalúrgica del Pacífico S.A. (NIT 901567890-4) solicita precotizado en D&O a través de Willis Towers Watson. Recepción: 2026-09-23.",
+        "info_documentos": [
+          "Formulario de solicitud: actividad económica y límites declarados por el cliente.",
+          "Proforma previa localizada en el repositorio de proformas vigentes."
+        ],
+        "info_historica": [
+          "Póliza anterior vigente en el periodo previo, sin siniestros reportados."
+        ],
+        "fuentes_externas": [
+          "Mención en prensa local sobre un hallazgo menor; requiere verificación de fuente primaria antes de usarse."
+        ],
+        "resultado_listas": "Sin coincidencias en listas restrictivas consultadas.",
+        "reglas_suscripcion": [
+          "Límite de capacidad vigente para D&O: consultar matriz de suscripción.",
+          "Toda recomendación requiere aprobación del suscriptor asignado."
+        ]
+      },
+      "categoria": 4,
+      "confianza": 0.85,
+      "hallazgos": [
+        "Adjuntos no procesables marcados explícitamente (no se asume su contenido): Póliza anterior.pdf",
+        "Riesgo dentro de apetito y cubierto por proforma/plantilla estándar vigente."
+      ],
+      "recomendacion": "Generar borrador de cotización preliminar estándar para revisión del suscriptor.",
+      "decision_final": null,
+      "feedback": null,
+      "estado": "analizado",
+      "created_at": "2026-09-23T00:00:00",
+      "updated_at": "2026-09-24T03:00:00"
+    },
+    {
+      "id": 36,
+      "folio_number": "FOL-2026-00036",
+      "suscriptor_id": 4,
+      "suscriptor_nombre": "Esteban Castaño Valencia",
+      "cliente": "Energía Renovable del Caribe S.A.S.",
+      "nit": "900901234-8",
+      "intermediario": "Seguros & Riesgos Ltda.",
+      "ramo": "D&O",
+      "tipo_negocio": "Renovación",
+      "fecha_recepcion": "2026-10-03",
+      "fecha_maxima": "2026-10-16",
+      "descripcion": "Solicitud de renovación para Energía Renovable del Caribe S.A.S. en D&O. Incluye descripción de operaciones y documentación de soporte.",
+      "adjuntos": [
+        {
+          "nombre": "Póliza anterior.pdf",
+          "tipo": "PDF",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Memoria técnica.docx",
+          "tipo": "Word",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Proforma vigente.xlsx",
+          "tipo": "Excel",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Carta de intermediario.msg",
+          "tipo": "MSG",
+          "procesado": false,
+          "nota": "Imagen escaneada de baja calidad: no procesable automáticamente."
+        }
+      ],
+      "informacion_minima_completa": true,
+      "faltantes": [],
+      "duplicado_de": "FOL-2026-00028",
+      "duplicado_score": 0.94,
+      "fuera_lineamientos": false,
+      "motivo_fuera_lineamientos": null,
+      "estandarizable": false,
+      "fuentes": {
+        "info_solicitante": "Energía Renovable del Caribe S.A.S. (NIT 900901234-8) solicita renovación en D&O a través de Seguros & Riesgos Ltda.. Recepción: 2026-10-03.",
+        "info_documentos": [
+          "Formulario de solicitud: actividad económica y límites declarados por el cliente.",
+          "No se encontró proforma previa asociada a esta actividad; requiere cotización manual."
+        ],
+        "info_historica": [
+          "Folio relacionado detectado por NIT y ramo: FOL-2026-00028."
+        ],
+        "fuentes_externas": [
+          "Mención en prensa local sobre un hallazgo menor; requiere verificación de fuente primaria antes de usarse."
+        ],
+        "resultado_listas": "Sin coincidencias en listas restrictivas consultadas.",
+        "reglas_suscripcion": [
+          "Límite de capacidad vigente para D&O: consultar matriz de suscripción.",
+          "Toda recomendación requiere aprobación del suscriptor asignado."
+        ]
+      },
+      "categoria": null,
+      "confianza": null,
+      "hallazgos": [],
+      "recomendacion": null,
+      "decision_final": null,
+      "feedback": null,
+      "estado": "nuevo",
+      "created_at": "2026-10-03T00:00:00",
+      "updated_at": "2026-10-03T00:00:00"
+    },
+    {
+      "id": 37,
+      "folio_number": "FOL-2026-00037",
+      "suscriptor_id": 1,
+      "suscriptor_nombre": "Mariana Pérez Londoño",
+      "cliente": "Plásticos del Pacífico S.A.",
+      "nit": "900890123-7",
+      "intermediario": "Willis Towers Watson",
+      "ramo": "Responsabilidad Ambiental",
+      "tipo_negocio": "Renovación",
+      "fecha_recepcion": "2026-09-12",
+      "fecha_maxima": "2026-09-26",
+      "descripcion": "Solicitud de renovación para Plásticos del Pacífico S.A. en Responsabilidad Ambiental. Incluye descripción de operaciones y documentación de soporte.",
+      "adjuntos": [
+        {
+          "nombre": "Póliza anterior.pdf",
+          "tipo": "PDF",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Plano de instalaciones.jpg",
+          "tipo": "Imagen",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Carta de intermediario.msg",
+          "tipo": "MSG",
+          "procesado": true,
+          "nota": null
+        }
+      ],
+      "informacion_minima_completa": true,
+      "faltantes": [],
+      "duplicado_de": null,
+      "duplicado_score": null,
+      "fuera_lineamientos": false,
+      "motivo_fuera_lineamientos": null,
+      "estandarizable": false,
+      "fuentes": {
+        "info_solicitante": "Plásticos del Pacífico S.A. (NIT 900890123-7) solicita renovación en Responsabilidad Ambiental a través de Willis Towers Watson. Recepción: 2026-09-12.",
+        "info_documentos": [
+          "Formulario de solicitud: actividad económica y límites declarados por el cliente.",
+          "No se encontró proforma previa asociada a esta actividad; requiere cotización manual."
+        ],
+        "info_historica": [
+          "Registro de un siniestro menor en el periodo anterior, ya cerrado."
+        ],
+        "fuentes_externas": [
+          "Mención en prensa local sobre un hallazgo menor; requiere verificación de fuente primaria antes de usarse."
+        ],
+        "resultado_listas": "Sin coincidencias en listas restrictivas consultadas.",
+        "reglas_suscripcion": [
+          "Límite de capacidad vigente para Responsabilidad Ambiental: consultar matriz de suscripción.",
+          "Toda recomendación requiere aprobación del suscriptor asignado."
+        ]
+      },
+      "categoria": 2,
+      "confianza": 0.65,
+      "hallazgos": [
+        "Se detectaron inconsistencias entre el formulario y los documentos adjuntos."
+      ],
+      "recomendacion": "Enviar preguntas de aclaración al intermediario/cliente antes de clasificar el riesgo.",
+      "decision_final": null,
+      "feedback": null,
+      "estado": "analizado",
+      "created_at": "2026-09-12T00:00:00",
+      "updated_at": "2026-09-12T05:00:00"
+    },
+    {
+      "id": 38,
+      "folio_number": "FOL-2026-00038",
+      "suscriptor_id": 2,
+      "suscriptor_nombre": "Carlos Andrés Gómez",
+      "cliente": "Logística Integral de Colombia S.A.S.",
+      "nit": "900789012-6",
+      "intermediario": "Marsh Colombia",
+      "ramo": "Otra línea (fuera de alcance)",
+      "tipo_negocio": "Renovación",
+      "fecha_recepcion": "2026-09-27",
+      "fecha_maxima": "2026-10-09",
+      "descripcion": "Favor cotizar, queda pendiente el resto de información.",
+      "adjuntos": [
+        {
+          "nombre": "Carta de intermediario.msg",
+          "tipo": "MSG",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Proforma vigente.xlsx",
+          "tipo": "Excel",
+          "procesado": true,
+          "nota": null
+        }
+      ],
+      "informacion_minima_completa": false,
+      "faltantes": [
+        "siniestralidad de los últimos 3 años",
+        "descripción de operaciones y procesos",
+        "actividad económica detallada"
+      ],
+      "duplicado_de": "FOL-2026-00023",
+      "duplicado_score": 0.91,
+      "fuera_lineamientos": false,
+      "motivo_fuera_lineamientos": null,
+      "estandarizable": false,
+      "fuentes": {
+        "info_solicitante": "Logística Integral de Colombia S.A.S. (NIT 900789012-6) solicita renovación en Otra línea (fuera de alcance) a través de Marsh Colombia. Recepción: 2026-09-27.",
+        "info_documentos": [
+          "Formulario de solicitud: actividad económica y límites declarados por el cliente.",
+          "No se encontró proforma previa asociada a esta actividad; requiere cotización manual."
+        ],
+        "info_historica": [
+          "Folio relacionado detectado por NIT y ramo: FOL-2026-00023."
+        ],
+        "fuentes_externas": [
+          "Sin hallazgos relevantes en fuentes públicas (verificación manual pendiente)."
+        ],
+        "resultado_listas": "Sin coincidencias en listas restrictivas consultadas.",
+        "reglas_suscripcion": [
+          "Límite de capacidad vigente para Otra línea (fuera de alcance): consultar matriz de suscripción.",
+          "Toda recomendación requiere aprobación del suscriptor asignado."
+        ]
+      },
+      "categoria": 1,
+      "confianza": 0.6,
+      "hallazgos": [
+        "Posible duplicado del folio FOL-2026-00023 (similitud 91% por NIT, ramo y vigencia).",
+        "Información mínima incompleta: siniestralidad de los últimos 3 años, descripción de operaciones y procesos, actividad económica detallada"
+      ],
+      "recomendacion": "Solicitar al intermediario la información faltante antes de continuar el análisis.",
+      "decision_final": "Se solicitó información adicional antes de decidir.",
+      "feedback": "correcta",
+      "estado": "decision_tomada",
+      "created_at": "2026-09-27T00:00:00",
+      "updated_at": "2026-09-27T08:00:00"
+    },
+    {
+      "id": 39,
+      "folio_number": "FOL-2026-00039",
+      "suscriptor_id": 3,
+      "suscriptor_nombre": "Laura Fernanda Ruiz",
+      "cliente": "Residuos y Reciclaje S.A.S.",
+      "nit": "901890123-7",
+      "intermediario": "Aon Colombia",
+      "ramo": "D&O",
+      "tipo_negocio": "Endoso",
+      "fecha_recepcion": "2026-09-06",
+      "fecha_maxima": "2026-09-11",
+      "descripcion": "Solicitud de endoso para Residuos y Reciclaje S.A.S. en D&O. Incluye descripción de operaciones y documentación de soporte.",
+      "adjuntos": [
+        {
+          "nombre": "Proforma vigente.xlsx",
+          "tipo": "Excel",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Formulario de solicitud.pdf",
+          "tipo": "PDF",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Carta de intermediario.msg",
+          "tipo": "MSG",
+          "procesado": true,
+          "nota": null
+        }
+      ],
+      "informacion_minima_completa": true,
+      "faltantes": [],
+      "duplicado_de": "FOL-2026-00003",
+      "duplicado_score": 0.96,
+      "fuera_lineamientos": true,
+      "motivo_fuera_lineamientos": "historial de siniestralidad reiterada en los últimos 24 meses",
+      "estandarizable": false,
+      "fuentes": {
+        "info_solicitante": "Residuos y Reciclaje S.A.S. (NIT 901890123-7) solicita endoso en D&O a través de Aon Colombia. Recepción: 2026-09-06.",
+        "info_documentos": [
+          "Formulario de solicitud: actividad económica y límites declarados por el cliente.",
+          "No se encontró proforma previa asociada a esta actividad; requiere cotización manual."
+        ],
+        "info_historica": [
+          "Folio relacionado detectado por NIT y ramo: FOL-2026-00003."
+        ],
+        "fuentes_externas": [
+          "Sin hallazgos relevantes en fuentes públicas (verificación manual pendiente)."
+        ],
+        "resultado_listas": "Sin coincidencias en listas restrictivas consultadas.",
+        "reglas_suscripcion": [
+          "Límite de capacidad vigente para D&O: consultar matriz de suscripción.",
+          "Toda recomendación requiere aprobación del suscriptor asignado."
+        ]
+      },
+      "categoria": 3,
+      "confianza": 0.8,
+      "hallazgos": [
+        "Posible duplicado del folio FOL-2026-00003 (similitud 96% por NIT, ramo y vigencia).",
+        "Riesgo fuera de lineamientos de suscripción: historial de siniestralidad reiterada en los últimos 24 meses"
+      ],
+      "recomendacion": "Preparar declinación sustentada para aprobación del suscriptor.",
+      "decision_final": null,
+      "feedback": null,
+      "estado": "analizado",
+      "created_at": "2026-09-06T00:00:00",
+      "updated_at": "2026-09-06T04:00:00"
+    },
+    {
+      "id": 40,
+      "folio_number": "FOL-2026-00040",
+      "suscriptor_id": 4,
+      "suscriptor_nombre": "Esteban Castaño Valencia",
+      "cliente": "AgroVerde del Cauca Ltda.",
+      "nit": "900234567-1",
+      "intermediario": "Marsh Colombia",
+      "ramo": "Responsabilidad Ambiental",
+      "tipo_negocio": "Nuevo negocio",
+      "fecha_recepcion": "2026-09-30",
+      "fecha_maxima": "2026-10-13",
+      "descripcion": "Solicitud de nuevo negocio para AgroVerde del Cauca Ltda. en Responsabilidad Ambiental. Incluye descripción de operaciones y documentación de soporte.",
+      "adjuntos": [
+        {
+          "nombre": "Proforma vigente.xlsx",
+          "tipo": "Excel",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Plano de instalaciones.jpg",
+          "tipo": "Imagen",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Póliza anterior.pdf",
+          "tipo": "PDF",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Memoria técnica.docx",
+          "tipo": "Word",
+          "procesado": true,
+          "nota": null
+        }
+      ],
+      "informacion_minima_completa": true,
+      "faltantes": [],
+      "duplicado_de": "FOL-2026-00032",
+      "duplicado_score": 0.93,
+      "fuera_lineamientos": false,
+      "motivo_fuera_lineamientos": null,
+      "estandarizable": true,
+      "fuentes": {
+        "info_solicitante": "AgroVerde del Cauca Ltda. (NIT 900234567-1) solicita nuevo negocio en Responsabilidad Ambiental a través de Marsh Colombia. Recepción: 2026-09-30.",
+        "info_documentos": [
+          "Formulario de solicitud: actividad económica y límites declarados por el cliente.",
+          "No se encontró proforma previa asociada a esta actividad; requiere cotización manual."
+        ],
+        "info_historica": [
+          "Folio relacionado detectado por NIT y ramo: FOL-2026-00032."
+        ],
+        "fuentes_externas": [
+          "Mención en prensa local sobre un hallazgo menor; requiere verificación de fuente primaria antes de usarse."
+        ],
+        "resultado_listas": "Sin coincidencias en listas restrictivas consultadas.",
+        "reglas_suscripcion": [
+          "Límite de capacidad vigente para Responsabilidad Ambiental: consultar matriz de suscripción.",
+          "Toda recomendación requiere aprobación del suscriptor asignado."
+        ]
+      },
+      "categoria": 4,
+      "confianza": 0.85,
+      "hallazgos": [
+        "Posible duplicado del folio FOL-2026-00032 (similitud 93% por NIT, ramo y vigencia).",
+        "Riesgo dentro de apetito y cubierto por proforma/plantilla estándar vigente."
+      ],
+      "recomendacion": "Generar borrador de cotización preliminar estándar para revisión del suscriptor.",
+      "decision_final": "Decisión ajustada por el suscriptor tras revisión manual.",
+      "feedback": "correcta",
+      "estado": "decision_tomada",
+      "created_at": "2026-09-30T00:00:00",
+      "updated_at": "2026-10-01T07:00:00"
+    },
+    {
+      "id": 41,
+      "folio_number": "FOL-2026-00041",
+      "suscriptor_id": 1,
+      "suscriptor_nombre": "Mariana Pérez Londoño",
+      "cliente": "Química Industrial del Norte S.A.S.",
+      "nit": "900456789-3",
+      "intermediario": "Willis Towers Watson",
+      "ramo": "Responsabilidad Civil General",
+      "tipo_negocio": "Renovación",
+      "fecha_recepcion": "2026-09-12",
+      "fecha_maxima": "2026-09-18",
+      "descripcion": "Favor cotizar, queda pendiente el resto de información.",
+      "adjuntos": [
+        {
+          "nombre": "Póliza anterior.pdf",
+          "tipo": "PDF",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Memoria técnica.docx",
+          "tipo": "Word",
+          "procesado": false,
+          "nota": "Imagen escaneada de baja calidad: no procesable automáticamente."
+        }
+      ],
+      "informacion_minima_completa": false,
+      "faltantes": [
+        "siniestralidad de los últimos 3 años"
+      ],
+      "duplicado_de": null,
+      "duplicado_score": null,
+      "fuera_lineamientos": false,
+      "motivo_fuera_lineamientos": null,
+      "estandarizable": false,
+      "fuentes": {
+        "info_solicitante": "Química Industrial del Norte S.A.S. (NIT 900456789-3) solicita renovación en Responsabilidad Civil General a través de Willis Towers Watson. Recepción: 2026-09-12.",
+        "info_documentos": [
+          "Formulario de solicitud: actividad económica y límites declarados por el cliente.",
+          "No se encontró proforma previa asociada a esta actividad; requiere cotización manual."
+        ],
+        "info_historica": [
+          "Sin pólizas previas registradas en el histórico consultado."
+        ],
+        "fuentes_externas": [
+          "Sin hallazgos relevantes en fuentes públicas (verificación manual pendiente)."
+        ],
+        "resultado_listas": "Sin coincidencias en listas restrictivas consultadas.",
+        "reglas_suscripcion": [
+          "Límite de capacidad vigente para Responsabilidad Civil General: consultar matriz de suscripción.",
+          "Toda recomendación requiere aprobación del suscriptor asignado."
+        ]
+      },
+      "categoria": 1,
+      "confianza": 0.6,
+      "hallazgos": [
+        "Adjuntos no procesables marcados explícitamente (no se asume su contenido): Memoria técnica.docx",
+        "Información mínima incompleta: siniestralidad de los últimos 3 años"
+      ],
+      "recomendacion": "Solicitar al intermediario la información faltante antes de continuar el análisis.",
+      "decision_final": null,
+      "feedback": null,
+      "estado": "analizado",
+      "created_at": "2026-09-12T00:00:00",
+      "updated_at": "2026-09-13T05:00:00"
+    },
+    {
+      "id": 42,
+      "folio_number": "FOL-2026-00042",
+      "suscriptor_id": 2,
+      "suscriptor_nombre": "Carlos Andrés Gómez",
+      "cliente": "Metalúrgica del Pacífico S.A.",
+      "nit": "901567890-4",
+      "intermediario": "Proteger Corredores de Seguros",
+      "ramo": "Responsabilidad Ambiental",
+      "tipo_negocio": "Precotizado",
+      "fecha_recepcion": "2026-09-08",
+      "fecha_maxima": "2026-09-16",
+      "descripcion": "Solicitud de precotizado para Metalúrgica del Pacífico S.A. en Responsabilidad Ambiental. Incluye descripción de operaciones y documentación de soporte.",
+      "adjuntos": [
+        {
+          "nombre": "Proforma vigente.xlsx",
+          "tipo": "Excel",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Carta de intermediario.msg",
+          "tipo": "MSG",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Memoria técnica.docx",
+          "tipo": "Word",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Formulario de solicitud.pdf",
+          "tipo": "PDF",
+          "procesado": true,
+          "nota": null
+        }
+      ],
+      "informacion_minima_completa": true,
+      "faltantes": [],
+      "duplicado_de": "FOL-2026-00035",
+      "duplicado_score": 0.8,
+      "fuera_lineamientos": false,
+      "motivo_fuera_lineamientos": null,
+      "estandarizable": false,
+      "fuentes": {
+        "info_solicitante": "Metalúrgica del Pacífico S.A. (NIT 901567890-4) solicita precotizado en Responsabilidad Ambiental a través de Proteger Corredores de Seguros. Recepción: 2026-09-08.",
+        "info_documentos": [
+          "Formulario de solicitud: actividad económica y límites declarados por el cliente.",
+          "Proforma previa localizada en el repositorio de proformas vigentes."
+        ],
+        "info_historica": [
+          "Folio relacionado detectado por NIT y ramo: FOL-2026-00035."
+        ],
+        "fuentes_externas": [
+          "Sin hallazgos relevantes en fuentes públicas (verificación manual pendiente)."
+        ],
+        "resultado_listas": "Sin coincidencias en listas restrictivas consultadas.",
+        "reglas_suscripcion": [
+          "Límite de capacidad vigente para Responsabilidad Ambiental: consultar matriz de suscripción.",
+          "Toda recomendación requiere aprobación del suscriptor asignado."
+        ]
+      },
+      "categoria": 2,
+      "confianza": 0.65,
+      "hallazgos": [
+        "Posible duplicado del folio FOL-2026-00035 (similitud 80% por NIT, ramo y vigencia).",
+        "Se detectaron inconsistencias entre el formulario y los documentos adjuntos."
+      ],
+      "recomendacion": "Enviar preguntas de aclaración al intermediario/cliente antes de clasificar el riesgo.",
+      "decision_final": null,
+      "feedback": null,
+      "estado": "analizado",
+      "created_at": "2026-09-08T00:00:00",
+      "updated_at": "2026-09-09T04:00:00"
+    },
+    {
+      "id": 43,
+      "folio_number": "FOL-2026-00043",
+      "suscriptor_id": 3,
+      "suscriptor_nombre": "Laura Fernanda Ruiz",
+      "cliente": "Textiles Antioqueños S.A.",
+      "nit": "901012345-9",
+      "intermediario": "Proteger Corredores de Seguros",
+      "ramo": "Responsabilidad Ambiental",
+      "tipo_negocio": "Renovación",
+      "fecha_recepcion": "2026-09-21",
+      "fecha_maxima": "2026-09-30",
+      "descripcion": "Solicitud de renovación para Textiles Antioqueños S.A. en Responsabilidad Ambiental. Incluye descripción de operaciones y documentación de soporte.",
+      "adjuntos": [
+        {
+          "nombre": "Formulario de solicitud.pdf",
+          "tipo": "PDF",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Póliza anterior.pdf",
+          "tipo": "PDF",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Carta de intermediario.msg",
+          "tipo": "MSG",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Plano de instalaciones.jpg",
+          "tipo": "Imagen",
+          "procesado": true,
+          "nota": null
+        }
+      ],
+      "informacion_minima_completa": true,
+      "faltantes": [],
+      "duplicado_de": null,
+      "duplicado_score": null,
+      "fuera_lineamientos": true,
+      "motivo_fuera_lineamientos": "historial de siniestralidad reiterada en los últimos 24 meses",
+      "estandarizable": false,
+      "fuentes": {
+        "info_solicitante": "Textiles Antioqueños S.A. (NIT 901012345-9) solicita renovación en Responsabilidad Ambiental a través de Proteger Corredores de Seguros. Recepción: 2026-09-21.",
+        "info_documentos": [
+          "Formulario de solicitud: actividad económica y límites declarados por el cliente.",
+          "No se encontró proforma previa asociada a esta actividad; requiere cotización manual."
+        ],
+        "info_historica": [
+          "Sin pólizas previas registradas en el histórico consultado."
+        ],
+        "fuentes_externas": [
+          "Sin hallazgos relevantes en fuentes públicas (verificación manual pendiente)."
+        ],
+        "resultado_listas": "Sin coincidencias en listas restrictivas consultadas.",
+        "reglas_suscripcion": [
+          "Límite de capacidad vigente para Responsabilidad Ambiental: consultar matriz de suscripción.",
+          "Toda recomendación requiere aprobación del suscriptor asignado."
+        ]
+      },
+      "categoria": 3,
+      "confianza": 0.8,
+      "hallazgos": [
+        "Riesgo fuera de lineamientos de suscripción: historial de siniestralidad reiterada en los últimos 24 meses"
+      ],
+      "recomendacion": "Preparar declinación sustentada para aprobación del suscriptor.",
+      "decision_final": "Decisión ajustada por el suscriptor tras revisión manual.",
+      "feedback": "correcta",
+      "estado": "decision_tomada",
+      "created_at": "2026-09-21T00:00:00",
+      "updated_at": "2026-09-22T14:00:00"
+    },
+    {
+      "id": 44,
+      "folio_number": "FOL-2026-00044",
+      "suscriptor_id": 4,
+      "suscriptor_nombre": "Esteban Castaño Valencia",
+      "cliente": "AgroVerde del Cauca Ltda.",
+      "nit": "900234567-1",
+      "intermediario": "Seguros & Riesgos Ltda.",
+      "ramo": "Responsabilidad Civil General",
+      "tipo_negocio": "Endoso",
+      "fecha_recepcion": "2026-09-13",
+      "fecha_maxima": "2026-09-25",
+      "descripcion": "Solicitud de endoso para AgroVerde del Cauca Ltda. en Responsabilidad Civil General. Incluye descripción de operaciones y documentación de soporte.",
+      "adjuntos": [
+        {
+          "nombre": "Póliza anterior.pdf",
+          "tipo": "PDF",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Memoria técnica.docx",
+          "tipo": "Word",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Formulario de solicitud.pdf",
+          "tipo": "PDF",
+          "procesado": false,
+          "nota": "Imagen escaneada de baja calidad: no procesable automáticamente."
+        },
+        {
+          "nombre": "Proforma vigente.xlsx",
+          "tipo": "Excel",
+          "procesado": true,
+          "nota": null
+        }
+      ],
+      "informacion_minima_completa": true,
+      "faltantes": [],
+      "duplicado_de": null,
+      "duplicado_score": null,
+      "fuera_lineamientos": false,
+      "motivo_fuera_lineamientos": null,
+      "estandarizable": false,
+      "fuentes": {
+        "info_solicitante": "AgroVerde del Cauca Ltda. (NIT 900234567-1) solicita endoso en Responsabilidad Civil General a través de Seguros & Riesgos Ltda.. Recepción: 2026-09-13.",
+        "info_documentos": [
+          "Formulario de solicitud: actividad económica y límites declarados por el cliente.",
+          "No se encontró proforma previa asociada a esta actividad; requiere cotización manual."
+        ],
+        "info_historica": [
+          "Póliza anterior vigente en el periodo previo, sin siniestros reportados."
+        ],
+        "fuentes_externas": [
+          "Mención en prensa local sobre un hallazgo menor; requiere verificación de fuente primaria antes de usarse."
+        ],
+        "resultado_listas": "Sin coincidencias en listas restrictivas consultadas.",
+        "reglas_suscripcion": [
+          "Límite de capacidad vigente para Responsabilidad Civil General: consultar matriz de suscripción.",
+          "Toda recomendación requiere aprobación del suscriptor asignado."
+        ]
+      },
+      "categoria": 5,
+      "confianza": 0.7,
+      "hallazgos": [
+        "Adjuntos no procesables marcados explícitamente (no se asume su contenido): Formulario de solicitud.pdf",
+        "Riesgo elegible pero no cubierto por una plantilla estándar vigente."
+      ],
+      "recomendacion": "Estructurar informe de suscripción con sugerencias para decisión manual.",
+      "decision_final": "Se solicitó información adicional antes de decidir.",
+      "feedback": "categoria_modificada",
+      "estado": "decision_tomada",
+      "created_at": "2026-09-13T00:00:00",
+      "updated_at": "2026-09-13T22:00:00"
+    },
+    {
+      "id": 45,
+      "folio_number": "FOL-2026-00045",
+      "suscriptor_id": 1,
+      "suscriptor_nombre": "Mariana Pérez Londoño",
+      "cliente": "Papelería Industrial Ltda.",
+      "nit": "901345678-2",
+      "intermediario": "Correduría Andina de Seguros",
+      "ramo": "Responsabilidad de Producto",
+      "tipo_negocio": "Nuevo negocio",
+      "fecha_recepcion": "2026-10-01",
+      "fecha_maxima": "2026-10-11",
+      "descripcion": "Favor cotizar, queda pendiente el resto de información.",
+      "adjuntos": [
+        {
+          "nombre": "Memoria técnica.docx",
+          "tipo": "Word",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Plano de instalaciones.jpg",
+          "tipo": "Imagen",
+          "procesado": true,
+          "nota": null
+        }
+      ],
+      "informacion_minima_completa": false,
+      "faltantes": [
+        "límite de responsabilidad requerido"
+      ],
+      "duplicado_de": null,
+      "duplicado_score": null,
+      "fuera_lineamientos": false,
+      "motivo_fuera_lineamientos": null,
+      "estandarizable": false,
+      "fuentes": {
+        "info_solicitante": "Papelería Industrial Ltda. (NIT 901345678-2) solicita nuevo negocio en Responsabilidad de Producto a través de Correduría Andina de Seguros. Recepción: 2026-10-01.",
+        "info_documentos": [
+          "Formulario de solicitud: actividad económica y límites declarados por el cliente.",
+          "No se encontró proforma previa asociada a esta actividad; requiere cotización manual."
+        ],
+        "info_historica": [
+          "Póliza anterior vigente en el periodo previo, sin siniestros reportados."
+        ],
+        "fuentes_externas": [
+          "Sin hallazgos relevantes en fuentes públicas (verificación manual pendiente)."
+        ],
+        "resultado_listas": "Sin coincidencias en listas restrictivas consultadas.",
+        "reglas_suscripcion": [
+          "Límite de capacidad vigente para Responsabilidad de Producto: consultar matriz de suscripción.",
+          "Toda recomendación requiere aprobación del suscriptor asignado."
+        ]
+      },
+      "categoria": 1,
+      "confianza": 0.6,
+      "hallazgos": [
+        "Información mínima incompleta: límite de responsabilidad requerido"
+      ],
+      "recomendacion": "Solicitar al intermediario la información faltante antes de continuar el análisis.",
+      "decision_final": null,
+      "feedback": null,
+      "estado": "analizado",
+      "created_at": "2026-10-01T00:00:00",
+      "updated_at": "2026-10-02T02:00:00"
+    },
+    {
+      "id": 46,
+      "folio_number": "FOL-2026-00046",
+      "suscriptor_id": 2,
+      "suscriptor_nombre": "Carlos Andrés Gómez",
+      "cliente": "Agroexportadora del Llano S.A.S.",
+      "nit": "901678901-5",
+      "intermediario": "Aon Colombia",
+      "ramo": "D&O",
+      "tipo_negocio": "Endoso",
+      "fecha_recepcion": "2026-09-27",
+      "fecha_maxima": "2026-10-06",
+      "descripcion": "Solicitud de endoso para Agroexportadora del Llano S.A.S. en D&O. Incluye descripción de operaciones y documentación de soporte.",
+      "adjuntos": [
+        {
+          "nombre": "Póliza anterior.pdf",
+          "tipo": "PDF",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Formulario de solicitud.pdf",
+          "tipo": "PDF",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Plano de instalaciones.jpg",
+          "tipo": "Imagen",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Carta de intermediario.msg",
+          "tipo": "MSG",
+          "procesado": true,
+          "nota": null
+        }
+      ],
+      "informacion_minima_completa": true,
+      "faltantes": [],
+      "duplicado_de": null,
+      "duplicado_score": null,
+      "fuera_lineamientos": true,
+      "motivo_fuera_lineamientos": "operación en zona de alto riesgo ambiental sin estudio de impacto vigente",
+      "estandarizable": false,
+      "fuentes": {
+        "info_solicitante": "Agroexportadora del Llano S.A.S. (NIT 901678901-5) solicita endoso en D&O a través de Aon Colombia. Recepción: 2026-09-27.",
+        "info_documentos": [
+          "Formulario de solicitud: actividad económica y límites declarados por el cliente.",
+          "Proforma previa localizada en el repositorio de proformas vigentes."
+        ],
+        "info_historica": [
+          "Registro de un siniestro menor en el periodo anterior, ya cerrado."
+        ],
+        "fuentes_externas": [
+          "Sin hallazgos relevantes en fuentes públicas (verificación manual pendiente)."
+        ],
+        "resultado_listas": "Sin coincidencias en listas restrictivas consultadas.",
+        "reglas_suscripcion": [
+          "Límite de capacidad vigente para D&O: consultar matriz de suscripción.",
+          "Toda recomendación requiere aprobación del suscriptor asignado."
+        ]
+      },
+      "categoria": null,
+      "confianza": null,
+      "hallazgos": [],
+      "recomendacion": null,
+      "decision_final": null,
+      "feedback": null,
+      "estado": "nuevo",
+      "created_at": "2026-09-27T00:00:00",
+      "updated_at": "2026-09-27T00:00:00"
+    },
+    {
+      "id": 47,
+      "folio_number": "FOL-2026-00047",
+      "suscriptor_id": 3,
+      "suscriptor_nombre": "Laura Fernanda Ruiz",
+      "cliente": "Farmacéutica Andina S.A.S.",
+      "nit": "901456789-3",
+      "intermediario": "Aon Colombia",
+      "ramo": "Responsabilidad Civil General",
+      "tipo_negocio": "Endoso",
+      "fecha_recepcion": "2026-09-13",
+      "fecha_maxima": "2026-09-20",
+      "descripcion": "Solicitud de endoso para Farmacéutica Andina S.A.S. en Responsabilidad Civil General. Incluye descripción de operaciones y documentación de soporte.",
+      "adjuntos": [
+        {
+          "nombre": "Póliza anterior.pdf",
+          "tipo": "PDF",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Memoria técnica.docx",
+          "tipo": "Word",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Plano de instalaciones.jpg",
+          "tipo": "Imagen",
+          "procesado": true,
+          "nota": null
+        }
+      ],
+      "informacion_minima_completa": true,
+      "faltantes": [],
+      "duplicado_de": "FOL-2026-00030",
+      "duplicado_score": 0.97,
+      "fuera_lineamientos": true,
+      "motivo_fuera_lineamientos": "operación en zona de alto riesgo ambiental sin estudio de impacto vigente",
+      "estandarizable": false,
+      "fuentes": {
+        "info_solicitante": "Farmacéutica Andina S.A.S. (NIT 901456789-3) solicita endoso en Responsabilidad Civil General a través de Aon Colombia. Recepción: 2026-09-13.",
+        "info_documentos": [
+          "Formulario de solicitud: actividad económica y límites declarados por el cliente.",
+          "Proforma previa localizada en el repositorio de proformas vigentes."
+        ],
+        "info_historica": [
+          "Folio relacionado detectado por NIT y ramo: FOL-2026-00030."
+        ],
+        "fuentes_externas": [
+          "Mención en prensa local sobre un hallazgo menor; requiere verificación de fuente primaria antes de usarse."
+        ],
+        "resultado_listas": "Sin coincidencias en listas restrictivas consultadas.",
+        "reglas_suscripcion": [
+          "Límite de capacidad vigente para Responsabilidad Civil General: consultar matriz de suscripción.",
+          "Toda recomendación requiere aprobación del suscriptor asignado."
+        ]
+      },
+      "categoria": 3,
+      "confianza": 0.8,
+      "hallazgos": [
+        "Posible duplicado del folio FOL-2026-00030 (similitud 97% por NIT, ramo y vigencia).",
+        "Riesgo fuera de lineamientos de suscripción: operación en zona de alto riesgo ambiental sin estudio de impacto vigente"
+      ],
+      "recomendacion": "Preparar declinación sustentada para aprobación del suscriptor.",
+      "decision_final": null,
+      "feedback": null,
+      "estado": "analizado",
+      "created_at": "2026-09-13T00:00:00",
+      "updated_at": "2026-09-13T21:00:00"
+    },
+    {
+      "id": 48,
+      "folio_number": "FOL-2026-00048",
+      "suscriptor_id": 4,
+      "suscriptor_nombre": "Esteban Castaño Valencia",
+      "cliente": "Hidrocarburos del Magdalena S.A.",
+      "nit": "901789012-6",
+      "intermediario": "Willis Towers Watson",
+      "ramo": "Responsabilidad Civil General",
+      "tipo_negocio": "Nuevo negocio",
+      "fecha_recepcion": "2026-09-09",
+      "fecha_maxima": "2026-09-20",
+      "descripcion": "Solicitud de nuevo negocio para Hidrocarburos del Magdalena S.A. en Responsabilidad Civil General. Incluye descripción de operaciones y documentación de soporte.",
+      "adjuntos": [
+        {
+          "nombre": "Formulario de solicitud.pdf",
+          "tipo": "PDF",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Carta de intermediario.msg",
+          "tipo": "MSG",
+          "procesado": true,
+          "nota": null
+        },
+        {
+          "nombre": "Plano de instalaciones.jpg",
+          "tipo": "Imagen",
+          "procesado": true,
+          "nota": null
+        }
+      ],
+      "informacion_minima_completa": true,
+      "faltantes": [],
+      "duplicado_de": null,
+      "duplicado_score": null,
+      "fuera_lineamientos": false,
+      "motivo_fuera_lineamientos": null,
+      "estandarizable": false,
+      "fuentes": {
+        "info_solicitante": "Hidrocarburos del Magdalena S.A. (NIT 901789012-6) solicita nuevo negocio en Responsabilidad Civil General a través de Willis Towers Watson. Recepción: 2026-09-09.",
+        "info_documentos": [
+          "Formulario de solicitud: actividad económica y límites declarados por el cliente.",
+          "No se encontró proforma previa asociada a esta actividad; requiere cotización manual."
+        ],
+        "info_historica": [
+          "Sin pólizas previas registradas en el histórico consultado."
+        ],
+        "fuentes_externas": [
+          "Mención en prensa local sobre un hallazgo menor; requiere verificación de fuente primaria antes de usarse."
+        ],
+        "resultado_listas": "Sin coincidencias en listas restrictivas consultadas.",
+        "reglas_suscripcion": [
+          "Límite de capacidad vigente para Responsabilidad Civil General: consultar matriz de suscripción.",
+          "Toda recomendación requiere aprobación del suscriptor asignado."
+        ]
+      },
+      "categoria": 2,
+      "confianza": 0.65,
+      "hallazgos": [
+        "Se detectaron inconsistencias entre el formulario y los documentos adjuntos."
+      ],
+      "recomendacion": "Enviar preguntas de aclaración al intermediario/cliente antes de clasificar el riesgo.",
+      "decision_final": null,
+      "feedback": null,
+      "estado": "analizado",
+      "created_at": "2026-09-09T00:00:00",
+      "updated_at": "2026-09-09T19:00:00"
+    }
+  ]
+}

@@ -41,6 +41,15 @@ npm run dev
 
 Frontend disponible en http://localhost:5173 (hace proxy de `/api` al backend en el puerto 8000).
 
+## Publicar en GitHub Pages
+
+El workflow de GitHub Actions publica la demo en
+https://cdinapol.github.io/SBS-Caso-Casualty/ al hacer push a `main`. GitHub Pages es
+estático y no ejecuta FastAPI: la demo usa los folios sintéticos incluidos y guarda
+análisis y decisiones en el almacenamiento local del navegador. Estos cambios no se
+sincronizan con el backend ni con otros usuarios. El modo local conserva el backend
+FastAPI y su comportamiento original.
+
 ## Qué muestra la demo
 
 - **Línea base**: tarjetas con las cifras históricas citadas en el plan (2.460 folios,
@@ -66,4 +75,3 @@ Frontend disponible en http://localhost:5173 (hace proxy de `/api` al backend en
 | 3 | Riesgo fuera de lineamientos | Declinación sustentada |
 | 4 | Riesgo elegible y estandarizable | Cotización preliminar |
 | 5 | Riesgo elegible no estandarizable | Informe y sugerencias |
-

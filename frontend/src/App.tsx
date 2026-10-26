@@ -75,9 +75,14 @@ export default function App() {
     <div className="app">
       <h1>SBS Underwriting — Asistente de Suscripción</h1>
       <p className="subtitle">
-        Prototipo local — Casualty y Responsabilidad Ambiental. El agente analiza y recomienda; el
-        suscriptor decide.
+        {import.meta.env.MODE === "pages" ? "Demo pública" : "Prototipo local"} — Casualty y
+        Responsabilidad Ambiental. El agente analiza y recomienda; el suscriptor decide.
       </p>
+      {import.meta.env.MODE === "pages" && (
+        <p className="subtitle">
+          Folios sintéticos. Los análisis y decisiones se guardan solo en este navegador.
+        </p>
+      )}
 
       <div className="tabs">
         <button
@@ -276,4 +281,3 @@ export default function App() {
     </div>
   );
 }
-

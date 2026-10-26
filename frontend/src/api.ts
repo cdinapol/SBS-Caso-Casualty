@@ -1,3 +1,5 @@
+import { staticApi } from "./staticApi";
+
 export type Ramo =
   | "Responsabilidad Civil General"
   | "Responsabilidad Ambiental"
@@ -130,28 +132,41 @@ function toQueryString(filters: FolioFilters): string {
 
 export const api = {
   listSuscriptores: (): Promise<Suscriptor[]> =>
-    fetch("/api/suscriptores").then((r) => handleResponse(r)),
+    import.meta.env.MODE === "pages"
+      ? staticApi.listSuscriptores()
+      : fetch("/api/suscriptores").then((r) => handleResponse(r)),
 
   getResumenSuscriptor: (suscriptorId: number): Promise<ResumenSuscriptor> =>
-    fetch(`/api/suscriptores/${suscriptorId}/resumen`).then((r) => handleResponse(r)),
+    import.meta.env.MODE === "pages"
+      ? staticApi.getResumenSuscriptor(suscriptorId)
+      : fetch(`/api/suscriptores/${suscriptorId}/resumen`).then((r) => handleResponse(r)),
 
   getKpis: (): Promise<KpisGlobales> =>
-    fetch("/api/kpis").then((r) => handleResponse(r)),
+    import.meta.env.MODE === "pages"
+      ? staticApi.getKpis()
+      : fetch("/api/kpis").then((r) => handleResponse(r)),
 
   listFolios: (filters: FolioFilters = {}): Promise<Folio[]> =>
-    fetch(`/api/folios${toQueryString(filters)}`).then((r) => handleResponse(r)),
+    import.meta.env.MODE === "pages"
+      ? staticApi.listFolios(filters)
+      : fetch(`/api/folios${toQueryString(filters)}`).then((r) => handleResponse(r)),
 
   getFolio: (id: number): Promise<Folio> =>
-    fetch(`/api/folios/${id}`).then((r) => handleResponse(r)),
+    import.meta.env.MODE === "pages"
+      ? staticApi.getFolio(id)
+      : fetch(`/api/folios/${id}`).then((r) => handleResponse(r)),
 
   analizarFolio: (id: number): Promise<Folio> =>
-    fetch(`/api/folios/${id}/analizar`, { method: "POST" }).then((r) => handleResponse(r)),
+    import.meta.env.MODE === "pages"
+      ? staticApi.analizarFolio(id)
+      : fetch(`/api/folios/${id}/analizar`, { method: "POST" }).then((r) => handleResponse(r)),
 
   decidirFolio: (id: number, payload: DecisionInput): Promise<Folio> =>
-    fetch(`/api/folios/${id}/decision`, {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify(payload),
-    }).then((r) => handleResponse(r)),
+    import.meta.env.MODE === "pages"
+      ? staticApi.decidirFolio(id, payload)
+      : fetch(`/api/folios/${id}/decision`, {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify(payload),
+        }).then((r) => handleResponse(r)),
 };
-
